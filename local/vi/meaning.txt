@@ -1,0 +1,5999 @@
+that, that one
+one (thing)
+one
+two
+two (things)
+three
+three (things)
+four (things)
+four
+this, this one
+four
+five (things)
+five
+six (things)
+six
+seven
+seven (things)
+eight
+eight (things)
+become
+nine
+nine (things)
+ten
+hundred
+thousand
+ten thousand
+circle
+yen
+time
+do, make
+sometimes
+day
+six days, 6th of the month
+three days, 3rd of the month
+five days, 5th of the month
+eight days, 8th of the month
+20 days, 20th of the month
+two days, 2nd of the month
+nine days, 9th of the month
+place
+1st of the month
+ten days, 10th of the month
+seven days, 7th of the month
+four days, 4th of the month
+moon
+water
+money
+Sunday
+Saturday
+do
+Friday
+Monday
+Thursday
+day of the week
+Tuesday
+Wednesday
+week
+year, age
+understand
+in such manner, that way
+what, which
+ahead, first
+this year
+now
+today
+this month
+this week
+come
+next year
+already, yet
+go
+return, go back
+big
+small
+few, little
+a bit, a little while
+lots of
+probably, perhaps
+raise, improve
+often
+go up
+up, above
+under, below
+right
+left
+direction, side
+adult
+person
+one, one person
+how, what
+put in
+enter
+go out, leave
+can do, be good at
+take out
+book, volume
+take a day off, take a break
+body, health
+eye
+where
+elastic
+seat, one's place
+absence, nonattendance
+second son
+second daughter
+guitar
+carry, transport
+drive
+driver
+tumble down, fall over
+sweater, pullover
+move, shift
+move, shift, transfer
+movement, motion
+movement, exercise
+just as I thought, after all
+activity
+animal
+move, operate
+real estate agent, realtor
+curtain
+early, soon
+fast talking
+speed
+special delivery, express mail
+shirt
+be late
+beginning
+in the beginning, early in
+the present, present time
+knife
+implementation, realization
+enforcement, implementation
+fact, truth
+practice, execution
+motorbike, motor cycle
+experiment
+passing, passage
+pass by, exceed
+early afternoon
+some time, some day
+the past
+development
+occurrence, happening
+utterance, speech
+orange
+discovery, revelation
+departure, starting
+start, leave
+announcement
+tight, difficult
+expression
+representative
+front side, face, outside
+table, list
+some time ago, only a moment ago
+letter
+picture, painting, drawing
+magazine, journal
+sound, noise
+text, text file
+sound, speech sound, Chinese pronunciation of a character
+music
+drug, remedy, chemical
+song
+plastic bag
+singer
+desire, wish for, covet
+plan, project
+movie
+apple
+interesting, amusing
+be taken, be seen through
+copy, photograph
+photograph
+album
+deep red
+serious, sober, earnest
+center, middle
+pure-white
+skirt
+pitch-dark
+deep-black, jet-black
+deep-blue, pale (skin)
+in various ways
+pen
+doll
+shape, form
+large, large scale
+kind, species
+chatter, talkative
+repair, cure, alter
+dead straight, honestly
+directly
+corner, edge, angle
+surely, certainly
+triangle
+square, quadrilateral
+square, four-sided
+street corner, intersection
+mouth
+ear, hearing
+good, skilled
+hand
+leg, foot
+be empty
+man, male
+woman, girl
+child, kid
+give
+favorite, liked
+love
+I
+friend, companion
+house, home
+spirit, temperament
+healthy, energetic
+weather
+be sunny, clear up
+like this, this kind of
+yesterday
+open, unlock
+open
+close
+shut, close
+be shut, be closed
+hear, ask
+time, hour
+high, tall
+be given
+inexpensive, cheap
+low, short
+front, before
+after
+back, behind
+afternoon, p.m.
+morning, a.m.
+morning
+daytime, midday
+fairly, rather
+evening (usually from sunset to bedtime)
+this evening, tonight
+night (from sunset to sunrise)
+eat
+drink
+cooked rice, meal
+buy
+see, look at
+show
+more
+find
+be visible
+be found, be caught
+say, tell
+speak, tell
+read
+character, kanji
+write
+memorize, learn
+there
+meet
+work, job
+situation, case
+car, automobile
+train
+railway station
+road, street
+other
+stop, give up, abolish
+here
+walk, go on foot
+run
+near, close to
+near, soon
+vicinity, nearby
+far, distant
+long
+short, brief
+wide, big
+receive
+all, wholly
+country
+white, blank
+red
+room
+rice (grain)
+yet, more
+exist, possess
+to not be
+very
+make, create
+use
+switch off, turn off
+sell
+shop, store
+spring
+summer
+autumn, fall
+winter
+all, everybody
+menu, bill of fare
+song, melody, tune
+bend, curve
+corner
+similar
+ice cream
+mistake, error
+mistake, confuse
+be mistaken, be incorrect
+look like, resemble
+dressing up smartly, trendy
+not less than, more than
+travel, trip
+embassy
+Japanese inn
+juice, soft drink
+movie theater
+homework
+lodge, give shelter
+play, amusement
+zero
+clothes
+classroom, class
+library
+window, windowpane
+pink
+intimate, familiar
+kind, friendly
+unkind, inattentive
+family, household
+glass
+Banzai! Hurrah! Long live...!
+20 years old
+older sister, girl, miss
+older brother
+dance, dancing
+sibling
+businessman
+young person, youth
+they
+uncle
+combination, joining
+result, outcome
+fruit
+task, problem
+soccer, football
+section, division, lesson
+effect, result
+automobile
+nature
+soup, broth
+natural, naturally
+self-study, self-teaching
+reason, cause
+freedom
+banana
+believe, trust, have faith in
+signal, traffic light
+ask, request
+citizens, townsmen
+noisy, annoying, pesky
+residents, dwellers
+master, husband
+legislator
+conference, meeting
+police car, patrol car
+face, be in response to
+opposition, antagonism
+oppose, object
+answer, solution
+hamburger
+specially, particularly
+super-express
+special, extraordinary
+separately
+escalator
+separate, part from
+general, common
+object, purpose
+normal, regular
+towel
+line up, be parallel
+line up, display, set up
+peace, harmony
+senior high school
+pachinko (vertical pinball)
+hospital
+be hospitalized
+graduate school
+doctor
+tangerine, mandarin orange
+doctor
+dentist
+tooth, cog
+toothbrush
+cake
+science
+textbook, schoolbook
+science
+die, pass away
+cup, glass
+busy, occupied
+get tired, become fatigued
+no smoking, giving up smoking
+drunkard, boozer
+nylon
+get drunk
+dangerous, uncertain
+danger, dangerous
+existence, being
+suit
+attention, notice
+order, request
+meaning, significance
+opinion
+ticket
+attention, care, watch out
+prepare, ready oneself
+for sure, for certain
+confirmation
+chocolate
+function, feature
+jet airplane
+machine
+material, factor
+channel
+concrete, specific
+be based on
+basis, foundation
+standard, criterion
+boring, dull
+provide for, furnish
+provide for, prepare for
+design, plan
+facilities, institution
+match, matchbox
+set up, establish
+explanation, description
+novel, story
+opening (to the public)
+cousin
+park, public garden
+zoo
+festival
+international
+paraffin heater, stove
+truth, actual state
+airport, airfield
+airmail
+surface mail, shipping service
+gas station
+ship, boat, vessel
+airport
+port, harbor
+island, isle
+date
+completion, finish
+Heisei era
+success
+cause, origin
+sliding door, fusuma
+funds, capital
+investment
+wish, ask a favor, apply for
+accurate, precise
+lemon
+correct, righteous, lawful
+New Year
+honest, upright
+differ
+cheese
+common, ordinary
+very, extremely
+investigate, check
+emphasis, stress
+drive
+season
+investigation, inquiry
+offer, provide
+proposition, proposal
+racket
+guide, inform
+show, indicate
+take (a person) along
+bring (a person)
+flight attendant
+continue, keep up
+opponent
+conversation, meeting
+consultation, advice
+tape recorder, cassette recorder
+journalist, reporter
+record, documentation
+sound recording
+climb, mount, go up
+moustache, beard
+concern, relate to
+connection, relation
+relation, relationship
+state of affairs, conditions
+soundly
+state, appearance
+be cured, get well
+politics
+cure, heal
+sauce, Worcestershire sauce
+government, administration
+political party
+measure, action
+policy, political measures
+typewriter
+choose, elect
+representative athlete
+election
+candidacy, candidate
+tomato
+prime minister
+capital
+reform
+leather
+butter
+command, order
+program
+build, set up, construct
+organization, constitution, tissue
+volleyball
+advance, promote
+advance, move forward
+entering a school of higher grade
+magnification, enlargement
+side dish
+responsibility, liability
+resign, retire
+dictionary
+commuting, commutation
+calendar
+serve, hold a job
+office, one's place of business
+office
+former, old
+handbag
+results, record
+collect, gather
+gather, be collected
+employment
+bell
+salary, pay
+graduation
+finding employment
+discharge from a hospital
+ink
+contract, agreement
+negotiation, bargaining
+affair, case
+condition, item
+air conditioning, cooler
+participation
+increase, gain
+add, include
+processing, manufacturing
+milk, baby milk
+compare, contrast
+criticism, comment
+evaluation, appraisal
+target, object
+salad
+malfunction, fault, breakdown
+repair, mending
+change, transfer
+change, transfer
+uncle
+exchange, convert
+change clothes
+wear, put on
+tear, break through, breach
+belt
+tear, rip open
+break, destroy, smash
+break, break down, get out of order
+ambulance
+ramen (Chinese noodles)
+help, save
+fine, excellent
+police
+management, administration
+lighter
+steal, rob
+kill, smother
+arrest, capture
+escape, run away
+(business) shirt, (white) shirt
+war, battle
+competition
+be crowded, be congested
+president (of a country)
+shower
+discard, abandon
+pick up, find
+pond
+electric cell, battery
+noodles, Japanese wheat noodles
+deep, profound, intimate
+depth, profundity
+shallow, superficial
+drop, omit
+rubbish, trash
+swim
+swimming
+flow, pass, drift away
+be in fashion, be popular
+supermarket
+wash
+washroom, bathroom
+oil, animal oil
+sink, set
+handkerchief
+after a long time
+ice
+cool down, feel chilly
+cool, chill
+videotape
+cool off, subside
+freeze, congeal
+refrigerator
+cool, refreshing
+wander aimlessly, hang about
+make dirty, soil
+dirt, filth
+become dirty, become defiled
+scenery, landscape
+news reader, announcer
+influence, effect
+shine, emit light
+grow fat, fatten
+sun
+spoon
+star, planet, spot
+the Earth
+baseball
+cloud
+blouse
+cloudiness, cloudy weather
+earthquake
+tremble, quiver, shake
+wave, shake, brandish
+ribbon
+shake, sway, rock
+Shinto shrine
+secret, privacy
+strict, severe, intense
+how, what
+old person, older councilor
+history
+century
+construction, building
+stereo
+building, structure
+be built, be erected
+organization
+construction, structure
+fork
+bridge
+pillar, prop
+position, place
+divorce
+aunt
+stoppage
+bus stop
+environs, circumference
+neighboring house, next seat
+shining, sparkling
+yellow
+side, width across
+horizontal writing
+judgment, decision
+please
+refuse, turn down
+pedestrian crossing, crosswalk
+drastically, substantially
+visit, call on
+necklace
+visit, call on
+air conditioning
+heating
+stationery, writing materials
+pajamas
+various countries
+green
+trade, commerce
+import
+ballpoint pen
+export
+ring
+going and returning, round trip
+review
+watermelon
+repeat
+studying abroad
+stop, station
+registered mail
+there, that way
+protect, observe
+not at home
+housing, residence
+one's house, one's home
+buckwheat noodles, soba
+your home, you, fan, geek
+early rising
+siesta, nap
+quiet, tranquil
+which
+free time, spare time
+hobby, interest
+both
+money changing, exchange of money
+basketball
+parents
+one way
+inside, interior
+other side
+sandwich
+exterior, outside
+left side
+right side
+rear, reverse, inside
+smile
+turn over, turn inside out
+weekly magazine
+morning edition
+evening edition
+wool
+detailed, complete
+minute, elaborate
+minute, elaborate
+accumulate, get accumulated
+cola, coke
+translation, rendering
+translate
+consideration, inspection
+spread on, paint
+toilet paper
+attach itself to, be connected with, come in contact with
+attach, set, apply
+receive, accept
+put in order, dispose of, do away with
+who
+receptionist, information office
+approach, get acquainted
+be put in order, be settled
+take care of, pay attention to
+hiking
+stick, paste
+memorial day, anniversary
+regretful, disappointing
+for example
+ham
+illustrative sentence, example
+example, precedent
+remain over, be in excess
+rid of, exclude
+boyfriend
+grind down, trim, scale back
+tardiness, lateness
+slack, loose
+painful, difficult
+iron
+bitter, sour
+person that is hard to deal with, weak point
+be at a loss, in a jam, in trouble
+poverty, destitution
+curried rice
+unhappiness, misfortune, bereavement
+happiness, good fortune
+salt
+salty
+cash card
+sugar
+scale, scope
+agriculture
+thick, concentrated, dark-colored
+earrings
+thin, weak, pale
+thick, bulky
+thickness
+press, close in on, be imminent
+girlfriend
+stretch, grow
+move, change quarters
+go over, go across, go beyond
+moving
+cassette tape
+outrun, overtake
+ascension, rising
+ticket barrier, wicket
+impoliteness, bad manners, I beg your parden/Goodbye
+itchy
+thanks, reward, return present
+apologize
+injection, shot
+degree, extent
+wobble
+invite, ask out
+introduction
+endeavor, effort
+get angry, scold
+jam
+single life, celibacy
+occupy, hold
+management, process
+introduction, presentation
+slippers
+invite, beckon, engage
+invitation
+husband and wife, married couple
+inner part, the back, inner chamber
+(a pack of) cards, (playing) cards
+married lady, your wife
+everybody, ladies and gentlemen
+everyone, ladies and gentlemen
+someone
+all right
+nationality, citizenship
+love
+cute, charming, sweet
+lover, sweetheart
+rush hour
+birthday
+holiday, festival day
+celebrate
+dream
+cup
+cry, weep
+tear
+be happy, be delighted
+shy, ashamed, disgraceful
+skate, skates
+box lunch, picnic lunch
+female nurse
+patient
+state orally, expound, mention
+in large quantity, plenty
+sue
+be perplexed, hesitate, get lost
+trouble, annoyance
+region, area
+picnic
+political power
+offer, give
+present, gift
+give
+way over there
+savings, deposit
+deposit, entrust
+receive on deposit, take charge of
+one's forte, pride, customer
+feel excited, feel nervous
+burn, undergo combustion
+burn, be scorched, be baked
+sukiyaki
+burn, bake, be envious
+OK, not bad, average
+dry, run dry
+a toast
+dry
+Shinkansen, Bullet Train
+scarf, muffler
+splendid, excellent
+seashore, coast
+home, family
+garden, court
+accessories, jewelry
+cherry tree, cherry blossom
+bloom, blossom
+blow, play on a wind instrument
+walk, stroll
+yawn
+plant, raise
+roof
+blackboard
+notice board, bulletin board
+thirsty, dry
+grass, weed
+leaf, needle
+picture postcard
+postcard
+weak
+inhale, suck
+diffusion, spread
+stomach
+plate, counter for plates or helpings
+spill
+blood
+contents
+background, scenery, setting
+bone, frame, spirit
+lunch
+slide, slip, flunk an examination
+snap, be folded, give in
+break off, fold, bend
+healthy
+receipt
+rare, precious
+photograph, shoot, film
+again, a second time
+the year after next
+chalk
+the month after next
+the week after next
+broadcasting
+equipment, device
+tissue
+kana, Japanese syllabary
+kana suffix
+mirror
+feel sad, lament
+knock
+stiff, tight
+art museum
+beautiful woman
+beauty shop
+properly, one's regards
+museum
+holding (of an event), opening
+distinctive feature, characteristic
+permit, license, forgive
+empty
+license
+teacher, instructor
+professor
+convey, transmit, hand down
+dazzling, glaring, blinding
+bird, poultry
+sound, ring, roar
+cry, chirp, meow
+voice, sound
+there, thou
+egg
+dog
+horse
+parking area
+table tennis, ping pong
+make a racket, mess around, make a fuss
+stab, prick, sting
+sashimi, sliced raw meat
+violent, intense
+hungry, starving
+be surprised, be startled
+fall over, succumb
+bring down, overthrow, defeat
+tendency, disposition
+fluently
+judo
+soft
+soft, tender, gentle
+insistence, assertion
+raincoat
+pull, drag
+hit against, come to the end of
+end of a street
+wall, partition
+popsicle, ice lolly
+play on
+round
+circle or sphere, wholeness
+attack, criticism
+about when, about what time
+absolutely, unconditionally
+fire engine
+dislike, have a dislike for
+hate
+whisky
+generally, mostly
+large numbers, a lot of
+figure, appearance
+posture, attitude
+airmail
+terrible, awful
+fearful, be afraid
+thread, yarn
+grandchild
+mechanical pencil
+cotton
+great, famous, eminent
+nail, claw
+desk, table
+cellophane tape, Scotch tape, Sellotape
+cupboard, shelf, rack
+bookshelf
+course, policy
+angle, fish
+burn
+change
+key, lock
+pan, saucepan
+sushi
+iced coffee
+thief, crook
+hot water, hot bath, bathhouse
+boil, be excited
+boil, excite
+other side, there
+washing machine
+laundering, washing
+get wet
+coffee shop, tea house, café
+that, so
+be lazy, neglect
+for life, with all one's might
+rest, repose
+ceiling
+mischief, prank
+natto (fermented soybeans)
+make up, put on makeup
+field, vegetable garden
+cook, boil
+waitress
+cooking food for oneself
+ashtray
+ashes
+ash color, gray
+aunt
+Christian Era, A.D.
+hair, wool
+hair, hairstyle
+tongue
+comb
+ill-smelling, stinking
+smell, odor
+be present
+put on footwear, wear
+cleaning, laundry
+door, shutter
+electric fan
+pig, pork
+pork, hog meat
+feast, treat
+chicken, hen
+wrist watch
+sweets, snacks
+bow
+treat
+late riser, oversleeping
+flag, banner
+pencil
+fountain pen
+spill, overflow
+box, case
+bookcase
+gloves
+bag, sack
+this, so, such
+purse, wallet
+blanket
+futon, bedquilt
+parcel, package
+heavily, pouring
+wrap, pack
+decorate, exhibit
+pocketbook, memo
+telephone book
+potato
+milk
+entrance, door
+glasses, judgment
+sleepy
+sofa, sofa bed
+sleep
+envelope
+go out, be about to go out
+hang, splash, require
+tobacco, cigarette
+multiplication
+applause, clapping
+cleaning
+sweep, brush
+just, as if
+vacuum cleaner
+grasp, make hand-rolled sushi balls
+handshake, handshaking
+welcome, go out to meet, invite
+just a moment, just a little, easily
+policeman
+how many, how old
+how much
+joke
+be on, switched on
+hole, cavity
+lonely, desolate, sad
+polite, courteous, careful
+poor, pitiable
+tempura, Japanese deep-fried breaded food
+injury
+patience, self-restraint
+kindergarten
+hide, disappear
+tapping
+the shade
+extremely, considerably
+persist, be tenacious
+time
+carrot
+now, these days, recently
+fire station
+inquire, search for
+canned goods, cooping-up
+tepid, lukewarm
+can, tin
+rot, corrode
+tofu
+floor
+percent
+barber, barbershop
+tatami, mat
+fold, shut
+dry, desiccate
+knee
+cap, hat
+by all means, at any cost
+honorific language, polite speech
+respect, esteem, honor
+elbow
+lay, spread
+thunder, lightning
+zero, naught
+put away
+laces, string, rope
+dance
+dance, dancing
+step on, tread on
+railroad crossing
+scatter, plant
+kick
+dining hall, restaurant
+cat, feline
+writing, prose
+kettle
+healthy, stout
+again, also, or
+grandfather
+grandmother
+welcome
+grandfather
+grandmother
+disturbing
+remedy for a cold
+waiter
+bathhouse, public bath
+bath
+Showa era
+purple
+that, so
+black tea
+rainy season
+peach, peach tree
+meet with, encounter
+pillow
+lie
+reserve, hesitation, forethought
+scold, tell off, reprimand
+umbrella, parasol
+young lady, your daughter
+New Year's card
+lively, exciting
+mosquito
+wipe, dry
+greet, greeting
+accompany, go with
+roll up, wind, wrap
+shoes, boots
+socks, stockings
+polish, grind
+toothpaste, brushing one's teeth
+hallway, corridor
+bottle, flask
+praise, commend
+New Year's Day
+sleeve
+clothes with long sleeves
+short-sleeved shirt
+fool, nonsense
+wonderful, great, incredible
+shave
+fight, quarrel, argument
+tap, hit
+bite, chew
+miso soup
+niece
+strawberry
+eggplant
+meet
+chair
+lose weight, become thin
+chopsticks
+glue, starch
+soy sauce
+scissors, pincers, tongs
+bag, handbag, briefcase
+jaw, chin
+candy, sweets
+soap
+temporarily
+date
+making money
+before, ahead
+the other day, a few days ago
+today, these days
+about this time
+case
+at any moment
+before long, someday
+comings and goings, communication
+line, row
+send home, see out
+very, greatly
+exaggerate
+image
+flood, inundation
+in the water, underwater
+smallness, small size
+at least
+a little, a few
+be completed
+eat, drink
+cause, fault
+upper, best
+superiors, people in authority
+give, favor with
+sewerage, drainage
+top and bottom
+above and below
+low class, inferiority, below
+right and left
+always, usually
+all directions, far and wide
+people
+adult
+outing
+inside
+weekend
+what on earth, what the…
+chance, opportunity
+output
+heating power, heat
+waterpower, hydraulic power
+quarrel
+major companies
+step, under foot
+volcano
+all, completely
+brook, stream
+in the air, in the sky
+empty, clear out
+empty
+vacancy, free time
+emptiness, hollow
+seawater
+maritime
+series
+paddy field, rice field
+forest, woodland
+manly, masculine
+womanly, feminine
+girl
+woman, girl
+like, be fond of
+AIDS
+taste, preference
+progress, proficiency
+household, family
+running away from home
+landlord
+originally, essentially
+New Year's Day
+engine
+mid-year gift, summer gift
+Milky Way
+feeling, mood
+vigor, spirits
+gas, vapor
+energy, vitality
+heavy rain
+class, lesson
+drizzle
+rainy weather
+heavy snow
+youth, young man
+blue sky
+tomorrow
+to dawn
+light
+speed
+dawn, near daybreak
+the year before last
+the day before yesterday
+yesterday
+improvement
+absolutely, at all
+gap, vacancy
+how, in what way
+tell, read aloud
+hot, warm (temperature of the air)
+hot (things, touch)
+cold (temperature of the air)
+warm
+new
+old
+good
+bad
+think
+always
+forget, leave behind
+think, consider
+decide, agree upon
+be decided
+know
+most
+live, reside
+name
+food
+when
+beverage, drink
+heavy
+light, light weight
+send
+take, get
+wait, wait for
+have, possess
+feeling, sensation
+live (one's life)
+which
+teacher
+university, college
+student
+university student
+school
+high school student
+teach, tell
+study
+strong
+what, which
+weak
+draw, pull
+question
+difficult
+number
+win
+lose
+really, truly
+need, require
+door
+clock, watch
+pay
+cut
+change
+ride, take
+wear, put on
+stand, rise
+sit, sit down
+next
+chat, talk
+move
+work
+early
+fast
+slow, late
+begin, start
+begin
+finish, end
+end, conclusion
+table
+last year
+paper
+enjoy
+fun, enjoyable
+sing
+want, desire
+color
+light brown
+at once, soon
+game
+rewrite
+be repaired, return to normal
+line
+turn
+same, identical
+differ, be wrong
+library
+stay overnight
+play
+why
+clothes
+father
+(speaker's)father
+mother
+(speaker's)mother
+parent
+older sister
+older sister
+younger sister
+stomach
+listener, audience
+guest room, parlor
+interval, duration of time
+space, room
+appreciation of the yen
+maximum, supreme
+start, begin
+lowest
+the smallest, minimum
+best, highest
+in the middle of, during
+first day, opening day
+you, darling
+before and after, order
+back, rear
+set
+facing backward
+three days from today
+latter half, second half
+morning sun
+last night, last evening
+last night
+eat, live on
+close-up
+eating out, dining out
+bread, loaf of bread
+at a glance
+begin to speak
+loanword, foreign word
+English, English writing
+Chinese-character compounds
+energy
+draft
+postscript, afterword
+recollection, memory
+opening, start a meeting
+meeting, association
+adjust, match
+match, add
+member of society, working person
+on the contrary, rather
+member
+member
+completion, finishing
+finish, complete
+human affairs, personnel affairs
+event, function
+thing, incident
+concrete
+housework, domestic duties
+artificial
+venue, meeting place
+participation
+inside a vehicle
+get off, stopover
+in front of the station
+finally, any moment
+diplomacy, foreign relations
+exchange
+traffic, transportation
+main street
+Japanese calligraphy
+crossroads
+unoccupied ground, vacant lot
+the Olympics
+figure, map
+signal, sign
+dead end
+first steps, beginning
+high degree
+at a time, at once
+excursion, hike
+stationmaster
+stop
+all members, entire staff
+all, entirely
+outside, outer
+part, portion
+state, country
+nations, countries
+abroad, outside the country
+properly, neatly
+departure, emigration
+country, territory
+national language, Japanese
+diplomatic relations, national friendship
+national highway
+world, the public
+take care of, provide service
+club
+success, promotion
+pale, pallid
+the black, surplus
+equator
+deficit, in the red
+Japan National Railways
+private railway
+house, building
+without moving, still
+housetop, roof
+taste, appreciate
+plain, sober
+end of the month
+youngest child
+(after) the end
+drinking water
+concert
+food supplies
+opinion, view
+as it is, unchanged
+writer, novelist
+usage
+action, effect
+servant
+wrong, must not
+private business, private use
+fee, membership fee
+national expenditure
+food expenses, board
+private expense
+consumption, spending
+fire fighting
+sales, proceeds
+in advance
+put on sale
+bookstore
+opening of a store, setting up
+retail store, outlet
+trading firm
+shop, store
+trade, business
+often, frequently
+merchant, trader
+food, foodstuff
+article, item
+elegance, refinement
+vulgar, low
+means, way
+greater, further
+shock, surprise
+value, worth
+be worth, deserve
+value, merit
+high-priced
+character, personality
+shape, appearance
+youth
+antenna
+vernal equinox
+early summer
+autumnal equinox
+four seasons, all year round
+summer, summer season
+chill
+warm, warmhearted
+high temperature
+boldly
+warm, mild
+north wind
+autumn breeze
+passion, enthusiasm
+public notice, advertisement
+new, fresh
+newspaper office
+cover, covering
+newcomer, freshman
+the worst
+abuse, misuse
+evil, badness
+wicked woman, villainess
+mental state, psychology
+heart, mind
+journalist
+thoughts, feelings
+unintentionally, unconsciously
+unexpected, accidental
+thoughtfulness, kindness
+never, by no means
+determination, resolve
+settlement, rule
+get acquainted with
+style
+become known, be found out
+acquaintance
+information, notice
+unawares, without knowing it
+talent, ability
+urine, pee
+bureau, public service office
+interview
+dwelling, residence
+Mr.
+personal name, name
+country name
+every place, various parts
+prefecture
+in the city
+season
+mayor
+market, marketplace
+market, exchange
+city outskirts, suburbs
+city
+old part of town
+division, section
+ward
+idea
+various, diverse
+shipping, dispatch
+character, person
+spectator, sightseer
+receptacle, container
+crop
+food
+indeed, as if
+book, volume
+pile up, repeat
+be piled up, come one after another
+important, serious
+weight, importance
+heavy
+lighthearted, easy
+all of a sudden, without warning
+weight
+small quantity
+small amount
+accept, accommodate
+catch, receive
+pass
+receipt
+forever
+listening comprehension, dictation
+dictation
+have charge of
+shoot up
+meeting, arrangement
+confide in, reveal
+arrange, discuss
+negation, denial
+mature, reliable
+municipal office, city hall
+ward office
+executive
+happen, cause
+human life, life
+birth, origin
+a lifetime
+questionnaire
+generate, produce
+way of life, lifestyle
+take advantage of, make use of
+living creature
+flower arrangement
+date of birth
+period, menstruation
+schedule
+born, by nature
+life
+living creature, lifeform
+lively, vividly
+performance, capacity
+character, personality
+sex, nature
+domestically produced
+gasoline
+production center
+birth, delivery
+utilization, conjugation
+printed type
+academic association, academic conference
+school year, grade
+engineering
+cut
+college president
+language study
+department of engineering
+school expenses, tuition
+faculty, department
+scholastic performance, academic ability
+leave of absence, absence
+star
+teacher, teaching staff
+Christianity
+Islam, Muslim religion
+be taught, learn
+lesson, teachings
+control, command
+powerful
+compulsion, force
+photographer, cameraman
+strongest
+reassuring, heartening
+overbearing, coercive
+quotation, citation
+dictionary
+study, learning
+match, game
+alcohol, alcoholic beverage
+try, attempt
+take an examination
+nature, property
+bad, malignant
+quality, nature
+learning, scholarship
+welcome, grateful
+at least
+important point, emphasis
+weak point
+small number, minority
+decimal
+circuit
+frequency, number of times
+last time
+stress
+deferment, postponement
+individuality
+individually, one at a time
+selfish, self-centered
+final, final game
+win, victory
+match
+shoulder, carry
+cord
+guess, hit the jackpot
+of course, obvious
+estimate, aim
+hit, success
+regulation, control
+expense
+be settled, complete
+coach
+finish off, get done with
+settle, complete
+stock
+ceremony
+industry, business world
+business, sales
+suspension of business, closure
+stage
+business, achievement
+interest, interest rate
+work, function
+income, earnings
+art, arts and crafts
+manufactured goods
+manufacture, production
+manufacture, production
+advice
+not always, not necessarily
+recruiting
+picture frame
+amount of money, sum
+total
+sum total
+family finances
+aluminum
+account, finance
+thermometer
+difference
+gap, disparity
+submit, stretch out
+time difference
+open (an umbrella)
+orchestra, orchestral music
+respectfully give
+student discount
+time table
+overtime
+lingering summer heat
+branch
+support, maintenance
+expenditure, disbursement
+Mister, middle-aged man
+control, management
+earnings and expenses
+arrangement, preparation
+support, maintain
+branch office
+pay
+payment, payout
+contest, competition
+talk back, retort
+be restored to, return to
+borrowing, debt
+borrowing money, debt
+lending service, checking out
+loan, renting
+application, petition
+amateur
+put in, concentrate on
+devote oneself
+assume, believe
+early days, initial
+school term
+latter period
+previous term, last semester
+severe, hard, strict
+date, due date
+new term, new semester
+limit, as far as possible
+restriction, limit
+boundary, limit
+time limit, term
+limit, bounds
+in a great hurry
+corner
+urgent business
+not at all, not one bit
+punctuate, divide
+boldly, decisively
+run out, sell out
+to one's heart's content, with all one's might
+sharpness
+just in time, barely
+voucher, ticket
+book of tickets
+generation
+substitution
+modern times
+ancient times, antiquity
+by turns, alternately
+rabbit, hare
+point to, aim at
+little finger, little toe
+stability, composure
+regulation, provision
+fix, determine
+designation, appointment
+worsening, aggravation
+chemistry
+sports field
+digestion, consumption
+furthermore, still more
+now, too late
+sudden increase
+decrease, reduction
+railway ticket, bus ticket
+boarding, getting on board
+completely, not at all
+passenger
+rainfall, rainy weather
+tax
+tax, duty
+private
+municipal, city
+prefectural
+shutter
+national
+seat
+seat, passenger seat
+weak point, defect
+be chipped, be missing
+lack
+next time
+operation, management
+speaker
+operation, management
+passenger fare
+fortune, fate
+shipping, transportation
+revolution, rotation
+roll over, tumble
+roll, roll over
+sales representative, salesperson
+transfer, change of address
+movement, shift
+action, conduct
+sports festival, athletic meet
+playground, sports field
+playground, sports field
+high speed
+chatter, idle talk
+rapid, swift
+freeway, highway
+immediately
+speed per hour
+full speed, full steam
+delay, being late
+delay, put off
+karaoke
+end, finish
+last, final
+last stop, terminus
+from beginning to end, at all times
+last train
+actual site, in the field
+present age, modern times
+cash
+stealthily, secretly
+appear, emerge
+actual spot, job site
+present address
+show, reveal
+embodiment, manifestation
+attendance at school
+actuality, reality
+jogging
+actually
+practical use, utility
+real ability, capability
+practice, training
+real thing, actual object
+truly, surely
+pass, let pass
+this and that, one thing or another
+progression, lapse
+fault, mistake
+go away, leave
+lively, active
+first departure
+express, represent
+express, say
+picture book
+just about
+noise, interference
+sound of footsteps
+Chinese-derived kanji reading
+Japanese syllabary
+easygoing, comfortable
+excursion, outing
+third finger, ring finger
+circle, club
+appetite
+be reflected, appear
+reflect, project
+plan, project
+artist, painter
+division, section
+screen
+Christ, Christianity
+surface, ground
+surface of the water
+whole surface
+truth, reality
+truth
+golden color
+form, model
+small-sized
+plainly, matter-of-factly
+type, mold
+a kind of, a sort of
+each kind, various
+a kind of, of sorts
+race
+item, event
+mankind, humankind
+hard, diligently
+documents, papers
+approach, proximity
+indirect
+come in contact, adjoin
+angle
+triangle
+curve, curved line
+catalogue
+composition
+commonality
+common language, lingua franca
+joint, commonality
+combination, joint
+everybody, all
+before, ago
+jazz
+below
+hereafter
+since
+from now on, after that
+lodging, boarding house
+Chinese and Japanese
+English-Japanese
+the West, the Occident
+signature, autograph
+ocean, sea
+Westerner
+uniform
+indoors
+parent and child
+relatives, kin
+get close to, get familiar with
+deceive, evade
+kindness
+close friend
+thumb
+intimacy, familiarity
+aquarium
+year end
+sisters
+intelligent
+gradually, by degrees
+as soon as
+breath
+rest, break
+consumer
+scholar
+the latter
+author, writer
+one by one, in detail
+the former
+after all, finally
+newlywed
+engagement, betrothal
+section chief
+be effective
+effect, validity
+strike
+effect, efficacy
+automatic operation
+one's own country
+each one, every individual
+naturally, instinctively
+via, through
+self-confidence
+(not) that much, (not) so much
+trust, credit
+reliance, confidence
+request, commission
+the people, populace
+the people, nation
+main, principal
+mainly, mostly
+leading part, starring role
+noisy, bothersome
+agent, main constituent
+subject, theme
+independence, autonomy
+staple food
+main, chief
+principle, -ism
+Communism
+curve, bend
+sense of duty, justice
+assembly, council
+conference, deliberation
+chairman, president
+topic for discussion, agenda
+argument, discussion
+conclusion
+guide
+speech, discussion
+public opinion
+violation, breach
+answer, comply with
+application
+tentatively
+reply, answer
+frog
+solution, answer
+distinction, classification
+discrimination
+sex, gender
+generally, in general
+economical, economic
+autonomous, voluntary
+rational, logical
+off track, out of line
+formal
+practical
+feminine, womanly
+horizontal, level
+horizon
+higher, high-grade
+first-class, premium
+exaggerate
+sudden illness
+medical science, medicine
+scientist
+subject
+subject, department
+surgery
+dentistry
+air-conditioning, air conditioner
+natural science
+humanities
+social sciences
+death
+dead person, the deceased
+corpse, body
+life and death
+death
+frequently, repeatedly
+pain, ache
+feel pain, hurt
+prohibition, forbiddance
+prohibit, forbid
+smoke, fumes
+liquor store
+abstention from alcohol
+table lamp, desk lamp
+steep, craggy
+bill, bond
+proof, evidence
+existence, survival
+know
+mutual agreement
+intention, inclination
+feel disappointed
+volition, motivation
+resolution, determination
+intention, aim
+unexpected, unforeseen
+meaning, significance
+favor, affection
+nastiness, ill-natured person
+securement
+slide
+establishment
+decision, confirmation
+certain, secure
+firm belief, conviction
+efficiency
+probability, rate
+rash, light-headed
+say
+opportunity, occasion
+crisis, emergency
+airplane captain
+opportunity, chance
+musical instrument
+tableware, dinner set
+skillful, clever
+classical music, the classics
+receiver
+vessel, dish
+fire extinguisher
+instrument, apparatus
+collection of data, gathering of news
+timber, wood
+condition, health
+quickly, suddenly
+utensil, implement
+furniture
+rain gear, rainwear
+base, military base
+level, standard
+standard, criterion
+local express
+establishment, foundation
+cancellation
+equipment, facilities
+theory, opinion
+explanation, commentary
+editorial
+theory
+formal, official
+public society, community
+sheet
+impartiality, fairness
+public
+educational institution, school
+national holiday, festival day
+international
+internationalization
+association, friendship
+catch, get
+occasion, time
+aviation
+aircraft, airplane
+airline ticket
+perfect, complete
+growth
+formation
+formation
+cook, chef
+organization, formation
+result, fruit
+approval, agreement
+composition, synthesis
+adult, grownup
+majority, adult
+lose, miss
+lobster, shrimp
+unemployment, loss of job
+failure, mistake
+victory or defeat
+principle, general rule
+raw material
+principle, theory
+atomic energy, nuclear power
+green
+plateau, highland
+materials, data
+property, assets
+qualifications, competence
+capitalism
+resources
+application form
+formal, regular
+jeans
+front, face
+noon, noontime
+justice, righteousness
+main gate, main entrance
+right answer, correct solution
+square
+right, positiveness
+journalism
+sitting upright with legs folded under one
+just, legal
+opposite sex
+extraordinary, exceptional
+normality, normalcy
+consciousness, awareness
+common sense, common knowledge
+speech
+investigation, inquiry
+favorable condition
+preliminary investigation, preparation
+maintenance, servicing
+disposition, arrangement
+economizing, saving
+inspection, examination
+that kind of
+plan, proposal
+unexpectedly
+as feared, sure enough
+United Nations
+connection, joining
+Minister of Foreign Affairs
+the truth
+as usual, as before
+accent, stress
+chat, idle talk
+article, story
+symbol, mark
+entry, record
+memorization
+memory, recollection
+concern, interest
+commercial, advertising
+custom house, customs
+joint
+involve, concern
+engine, agency
+person in charge
+present condition
+situation, state of affairs
+persistent
+the actual situation, the realities
+administration
+politician
+settle down, be cured
+political party
+scheme, policy
+cite, give (an example)
+climate
+squat down
+supplement, replenish
+ankle
+head, leader
+head, chief
+headache
+complexion, countenance
+morning glory
+contest
+revision, amendment
+improvement, reform
+reform, change
+remodeling, reorganization
+once again
+be renewed, change
+revolution
+cabbage
+life
+life
+fate, fortune
+union, guild
+construction, arrangement
+school class
+pair up, partner with
+assort, join together
+idol, pop singer
+incorporate, integrate
+combination, assortment
+cloth, textile
+advancement
+advancement
+progress, advancement
+advancement
+make fun of, tease
+course, route
+march, parade
+promotion
+person in charge, head
+resignation
+compliment, flattery
+committee
+refreshed
+committee member, delegate
+to go to work, attendance at work
+diligence, hard work
+duty, service
+duty, obligation
+office duty, clerical work
+public officer, government worker
+unfortunately
+clerk, clerical staff
+follow, obey
+employee, worker
+employment
+achievement, performance
+achievement, performance
+application
+concentration, convergence
+middle-aged woman
+gathering, assembly
+gathering, assembly
+collection, gathering
+profit
+marking, grading
+supply, provision
+monthly salary
+jump
+hourly wage
+demand
+inauguration, appointment
+staff, employee
+place of work, office
+occupation, vocation
+treaty
+all over, here and there
+reference, consultation
+House of Councilors, Upper House
+visiting a shrine or temple
+reference book
+join in
+irresponsible, half-baked
+chase, pursue
+turn out, kick out
+before it is noticed
+feeling, impression
+feeling, emotion
+sense, sensation
+emotion, impression
+true sense, realization
+admiration
+thought, conception
+treat
+thought, impression
+fantasy, daydreams
+developing a film
+phenomenon
+weather condition
+paper sliding-door
+correction, revision
+snack, refreshment
+wound, scar
+damage, spoil
+exchange, bartering
+express in different words, paraphrase
+change of clothes
+alternation, shift
+fire, conflagration
+calamity, misfortune
+rumble
+obstacle, disorder
+calamity, disaster
+environmental pollution
+flood damage
+harm, damage
+cover
+save, relieve
+shoes, sports shoes
+rescue, relief
+assistant, helper
+rescue, relief
+support, backing
+aid, assistance
+support, cheering
+pocket money, spending money
+kiss
+warning, admonition
+police officer, policeman
+pipe, tube
+offend against, rape
+robbery
+suicide
+murder, homicide
+round and round, spin
+rob, take by force
+postwar period
+tactic, strategy
+battlefield, front
+prewar period
+death in war
+conflict, battle
+compete, fight
+blow off, play truant
+match, sporting event
+confusion, disorder
+disorder, confusion
+look for, search for
+index
+calm down, settle in
+presence of mind, composure
+shopping
+lost property
+interaction, contact
+top-ranked, world-class
+upstream
+downstream
+older brother
+older brother
+younger brother
+daughter, girl
+son
+young
+she, one's girlfriend
+he, one's boyfriend
+marriage
+meeting
+bicycle
+self, oneself
+(your) husband
+answer, reply
+another, different
+illness
+die
+painful
+alcoholic drink, Japanese rice wine
+switch on
+full
+fly
+airplane
+favor
+continue, follow
+diary
+neck
+head
+face
+that over there
+feel, sense
+search for, look for
+fall, sink
+toilet, bathroom
+cold (things, touch)
+dirty
+thick, fat
+become cloudy
+god, spirit
+bad-tasting, bad
+build, erect
+put, leave
+vicinity, part
+yellow
+together, at the same time
+green, foliage
+easy, simple
+student studying abroad
+return, turn back
+side, vicinity
+get up, get out of bed
+happen
+wake up
+occur
+sleep, go to sleep
+thin, slender, narrow
+place, put on
+tighten, fasten
+sweet
+here
+spicy, salty
+gentle, kind
+husband
+wife
+who, whom
+love, care for
+laugh, smile
+sour
+word, language
+way, like, kind
+call, name
+chest
+hip, lower back
+height, stature
+katakana
+hiragana
+sad
+beautiful
+class, lesson
+over there
+help, assist
+narrow, restricted
+touch, feel
+dislike
+take (a shower)
+be thirsty
+hair
+shoulder
+nose
+tasty
+arm
+hang, put on
+I (young male)
+no good
+alright, OK
+cold (illness)
+beautiful
+happy, glad
+become
+sake, purpose
+ocean current
+third-rate
+sophisticated, skillful
+flood, inundation
+crumble, collapse
+destroy, break
+flushing, washing
+dishes to be washed
+petroleum, oil
+oil painting
+float
+line up neatly
+set afloat
+float
+sink, submerge
+future, in the future
+eternity
+permanence, eternity
+river mouth, estuary
+come, go
+cool, let cool
+car shed, garage
+strong box, safe
+heart
+light, cheerful
+pleasant, agreeable
+fair and clear weather
+eel
+optimum
+identification, pointing out
+humidity
+damp, gloomy
+moisture, dampness
+get damp, get wet
+pollution, contamination
+economic climate
+guard rail
+shadow, shade
+boundary, border
+environment, surroundings
+national border
+boundary, border
+observation, supervision
+external appearance
+pumpkin
+objective
+subjectivity, subject
+subjective
+audience, spectator
+sightseeing
+observation
+conjecture, guess
+quiz, quiz show
+universe, space
+satellite, moon
+hygiene, sanitation
+sanitary, hygienic
+globe, ball
+seismic intensity
+vibration
+cream
+sensitivity, nerves
+god, the divine
+Shinto
+mind, spirit
+settlement of accounts, adjustment
+strict, secure
+precious, valuable
+article of value, valuables
+round and round
+trace, track
+footprint, footmark
+curiosity
+miracle, wonder
+odd number
+personal history, resume
+educational history
+no doubt, must
+king
+king
+construction, architecture
+new building
+conception, design
+set up (shop)
+all right, no thank you
+sunglasses
+quite
+mind, care for
+rank, dignity
+establishment
+distance, interval
+circle, around
+vicinity, around
+circumference, surroundings
+exactly
+enclose, encircle
+crossing, traversing
+continuation, succession
+Europe and America
+state
+land, shore
+extremely, very
+cucumber
+negative, passive
+extreme
+cutting edge, forefront
+together
+foreign currency
+freight, cargo
+wheel
+clear
+recovery, rehabilitation
+bitter, astringent
+delay, traffic jam
+area, vicinity
+belt, sash
+temperate zone
+defense, fielding
+return home
+unhesitantly, confidently
+residential district
+recipient, addressee
+name of recipient, addressee
+turning back, retreat
+bring about, cause
+origin, beginning
+get up, rise
+wander
+bedroom
+become quiet, calm down
+holiday, vacation
+one hand
+one side
+one side
+betray
+free gift
+back door, kitchen door
+turn over, turn inside out
+back gate
+inside-out, front and back
+item, clause
+impression
+mark, symbol
+cookie, biscuit
+printing
+published weekly
+published monthly
+publishing, publication
+publishing company
+details, particulars
+helpless, lonely
+notice, bulletin
+outlet, wall socket
+positive, active
+apology, excuse
+error, mistake
+make a mistake
+misunderstanding
+notice, become aware of
+stick, cling
+cunning, sneaky
+overtake, catch up with
+face, expression
+think of, hit upon
+cleaning up
+get injured, be hurt
+wound, hurt
+join, paste
+impatient
+leave a message
+metal
+belonging, attachment
+Ministry of Finance
+Ministry of Foreign Affairs
+homecoming
+omission, abbreviation
+general idea, concept
+round paper fan
+commemoration, memory
+belief, conviction
+favorable condition, smooth progress
+order, sequence
+order, turn
+order, rank
+by turns, in order
+carelessly, accidentally
+order
+reverse, inverse
+disobey, go against
+reverse, inversion
+upside-down, reverse
+queue, line
+row, line
+worthless, trifling
+example, instance
+remainder, leftover
+curtailment, reduction
+deletion, elimination
+already, previously
+ready-made, ready-to-wear
+serious, grave
+cut fine
+cheeky, impudent
+time, hour
+deadline, time limit
+close, fix a deadline
+tighten, be compact
+flourish, thrive
+nutrition, nourishment
+culture, education
+peaceful and content
+rest, recreation
+suffer, be troubled
+complaint, grievance
+pains, efforts
+distress, suffering
+pain, agony
+torment, trouble
+self-service
+difficulty, hardship
+labor, work
+overwork
+difficulty, hardship
+depend on, take advantage of
+be indulgent to, spoil
+strict, severe
+alphabet
+happiness, good fortune
+good fortune, good luck
+happiness, good fortune
+sand, grit
+desert
+fishing industry
+gloomy, dim
+thin, dilute
+snoring
+light clothing
+heavy clothing
+pressure
+atmospheric pressure
+high pressure
+reduction, curtailment
+go over, surmount
+disgusting, nasty
+pass, overtake
+bill, paper money
+ticket gate
+gratitude, thanks
+monthly fee
+shine on
+process, course
+intonation
+course, curriculum
+distance, journey
+some time ago, a little while ago
+be superior to, be fine
+actress
+be transparent
+guide, lead
+hope, wish
+rattle
+disappointment, loss of hope
+will, volition
+have an ambition for, aspire
+anger, rage
+self
+come from, origin
+the whole body
+cheating
+stature, height
+mind and body
+passiveness, passive voice
+proof, evidence
+illumination, lighting
+contrivance, scheme
+housewife
+sit cross legged
+obstetrics and gynecology
+married woman, someone's wife
+each other
+by turns, alternatively
+advanced age, elderly
+love, affection
+lovely, charming
+love, cherish
+reluctantly
+love, romance
+broken heart
+love, fall in love with
+extension, prolongation
+postponement, deferment
+celebrate, congratulate
+celebration, congratulation
+the waist
+pure, unmixed
+prudence, discretion
+smiling face, smile
+great joy, delight
+nursing
+nursing, nursing care
+affirmation
+organ, pipe organ
+description
+trial, judgment
+courthouse
+lawsuit, appeal
+zone
+doubt, suspicion
+question, doubt
+roar, laugh loudly
+doubt, be suspicious
+doubtful, questionable
+remarkable, conspicuous
+write, compose
+right, privilege
+power, authority
+human rights
+dropping out, renouncing rights
+kitchen
+invade, violate
+act, conduct
+prize, award
+prize, trophy
+ornamental
+public finance, financial affairs
+fortune, asset
+messy, scrunch
+finance
+interval, space
+end, expiry
+completion
+completion
+approval, recognition
+consent, knowledge
+stingy, miser
+pay a tax or fee
+persuasion
+income, earnings
+obtain, gain
+drying up, desiccation
+executive
+oxygen
+honest, straightforward
+rough, gritty
+hydrogen
+nimble, quick
+coal
+rock, crag
+shore, bank
+schoolyard, campus
+breakup, dissolution
+smog
+plant, vegetation
+colony, settlement
+garden plant, shrub
+botanical garden
+grounds, basis
+basis, root
+board, plank
+pickpocket
+signboard, sign
+plants and flowers
+plants and trees
+wording, language
+fallen leaves
+tree leaves
+written language
+absorption, merger
+rice ball
+breathing, respiration
+inhale, suck in
+reach to, come up to
+handle, deal with
+high rank, high class
+grade, class
+higher grade, advanced class
+razor
+beginner class, elementary level
+blood vessel
+bleeding, hemorrhage
+liquid, fluid
+blood
+liquid, fluid
+back
+chatter loudly
+business suit
+fracture, broken bone
+healthy, sound
+health
+diagnosis
+medical examination
+medical service, healthcare
+look around
+pitiable, regrettable
+disinfection, sterilization
+symptom
+clean copy
+cleanliness, neatness
+supervisor, film director
+photographing, shoot
+depict, describe
+sneeze
+activity, action
+reopening, restart
+playback
+reunion
+knit
+release, setting free
+opening
+drag one's feet, waste time
+importance, value
+viewpoint
+nearsightedness, shortsightedness
+clothes, garments
+clothes, dress
+clothing, garments
+clothing and food and housing
+ticklish
+supposing that, even if
+assumption, supposition
+provisional, temporary
+kana orthography, use of kana
+speech, address
+public performance
+perform, play
+appearance on stage, performance
+get tired, be worn out
+drama, play
+theater
+drama, play
+comedy
+grief, sadness
+group, mass
+fixing, stability
+be irritated
+harden, strengthen
+harden, solidify
+solid, solid matter
+peculiar to, characteristic
+sponsorship, promotion
+hasten, urge
+demand, urging
+etiquette
+classics
+dictionary
+especially, exceptionally
+symbol, symbolize
+faint, dim
+sorry
+permission, approval
+training, drill
+lose one's temper, fly into a rage
+Japanese pronunciation
+Japanese reading of kanji
+particle, postposition
+adjective
+boss
+master of ceremonies, host
+purchase
+gargle
+lecture
+lecture
+cancellation of lecture
+doctor, physician
+speaker, lecturer
+engineer, technician
+December
+furious
+helper, assistant
+small bird
+loud voice
+singing voice
+clamor, commotion
+noisy
+raise, keep
+until now, until here
+stick, be stuck
+sudden, abrupt
+stimulus, stimulation
+deep emotion, moving
+interest
+excitement, agitation
+surprise, amazement
+surprise, amaze
+feel damp, clammy
+come to, reach
+everywhere, all over
+urgent, pressing
+accord, agreement
+humbly do
+decline, go down
+lean, cock (one's head)
+stare
+slope, incline
+become narrow, contract
+narrow, contract
+slow speed
+hardness
+pliable, flexible
+urgent, pressing
+ant
+tension, strain
+expansion, extension
+business trip
+collision, conflict
+chimney, smokestack
+avoid, evade
+military affairs
+army, troops
+responsive sounds, chiming in
+Self Defense Forces
+army, troops
+core, atomic nucleus
+tuberculosis
+major, specialization
+attack, take the offensive
+fire, shoot
+hard, solid
+act violently, rage about
+raid, attack
+absolutely
+fainting
+fire fighting, fire prevention
+dislike
+dislike, hate
+exhausted
+mood, health
+likes and dislikes, taste
+protest, remonstrance
+lovely, nice
+threaten, intimidate
+authority, power
+put on airs, be arrogant
+state of things, situation
+pepper
+influence, power
+vigor, momentum
+fear, risk
+fear, apprehend
+probably
+be afraid of, fear
+huge, gigantic
+smooth
+denial, rejection
+affiliation
+system, lineage
+descendant, offspring
+silk, silk fabrics
+maintenance, upkeep
+gentleman
+with much trouble, specially
+great, mighty
+sword, blade
+solitary, lonely
+matter, affair
+pattern, design
+handle, grip
+branch, twig
+be stunned in disappointment or disbelief
+wither, die
+cold wintry wind
+poetry
+poet
+sincerity, honesty
+prosperous, active
+humility, modesty
+serve two functions, combine
+nickname
+pointed, acute
+chain, tether
+viewing, enjoyment (of art)
+personal seal
+bell, gong
+life span
+sea bathing
+over flow, flood
+coast, shore
+sandy beach, sands
+offshore
+spring, fountain
+hot spring
+clear, become clear
+shout, cry
+squid
+shout, cry out
+smoking
+stake
+debt of gratitude, kindness
+the streets, downtown
+powder, flour
+wheat
+flour
+when
+barley
+cooking
+calendar, almanac
+peel, fur
+fur
+woolen yarn, wool
+tail
+inflation
+white hair, gray hair
+otorhinology, ENT
+lip, lips
+interpretation, explanation
+living room
+be present, stay (humble)
+more, even more
+weekend
+high altitude, high-rise
+cover, hide
+family register
+glass door
+fresh
+vivid
+crowd
+county
+gargling
+you
+fat, grease
+fat, grease
+stomach and intestines
+vital, essential
+mountain range
+live, earn one's livelihood
+feel excited
+living, livelihood
+dusk, the end (of a season or a year)
+grow dark
+year-end gift
+lawn, turf
+stem
+recommendation, nomination
+face downward
+be wild, run waste
+wild, reckless
+harsh, rough
+damage, ransack
+busy
+be flurried, hurry
+ceremony, ritual
+nod
+manners, behavior
+sacrifice
+baby
+monk, priest
+national flag
+muscle, sinews
+method, logic
+muscle
+flatter
+split, tear
+cushion
+oneself, self
+hold in one's arms
+embrace, hug
+phrase, clause
+idiom, common phrase
+heel
+end of the month
+beginning of the month
+be fed up
+ornament, decoration
+bait, feed
+old, former
+childcare, child-raising
+rustle
+pediatrics
+full name
+surname, family name
+young, childish
+ophthalmology
+nearsightedness, shortsightedness
+doze, nap
+instant, moment
+nibble, bite
+instant, moment
+sleep, slumber
+vertical, perpendicular
+bear in mind, try
+sit down
+chase, run after
+stool, seat
+(the sound of) guzzling
+meet, have the honor of seeing
+bow in veneration, worship
+parentheses, brackets
+command, initiative
+shine brilliantly, glitter
+suppress, bring under control
+faith, religious belief
+crow, raven
+chance, accident
+even number
+nook, corner
+castle, fort
+cultivation, raising
+vigilance, precaution
+no matter how much
+politely ask
+cancer
+regret
+vexing, frustrating
+I, me
+sumo wrestling
+be one-sided, deviate
+all at once
+religion
+tightly
+deliberation, consideration
+constitution, constitutional law
+weaken, decline
+grudge, regret
+almost, close
+grudge, hatred
+hold a grudge, feel resentment
+packed, crammed
+readiness, resolution
+suspicious, dubious
+suspect
+showing off
+dining table
+welcome
+suggest, recommend
+Chinese dumpling
+focus, focal point
+feel pressured, feel hurried
+scorch, burn
+hero
+male
+acquisition
+harvest, harvesting
+rice plant
+a cut of cloth
+earn, make money
+manuscript paper, writing pad
+calm, mild
+hide, conceal
+help, thanks to
+shade, behind the scenes
+lump, ingot
+tickle
+mean, greedy
+crush, smash
+be crushed, break down
+basis, foundation
+shellfish, shell
+wise, smart
+frequently, repeatedly
+out loud
+stubborn, obstinate
+receive, eat
+all together, all at once
+detergent, cleanser
+serious, sincere
+prison
+detective
+intense, severe
+golden week
+beast, brute
+gallop, run quickly
+gallop, run
+hill, slope
+government office
+prefectural office
+rub, strike
+kotatsu, heated table with a coverlet
+sweat
+axis
+one's junior
+perfume, fragrance
+perfume
+chorus
+crystallization
+proverb, common saying
+respect, honor
+drawing room, Japanese-style room
+deposit, key money
+be inferior to, be worse than
+check, tab
+sense, intuition
+misunderstanding
+fog, mist
+from now on, after this
+frost
+the public
+House of Representatives, Lower House
+audience
+the masses, multitude
+summer greeting
+finished, over
+pour
+money, cash
+child, juvenile
+bury, fill up
+bury, fill in
+black ink
+lecture hall, auditorium
+scholarship, fellowship
+JR, Japan Railways
+become insane, get out of order
+monkey, ape
+hell, inferno
+chapter
+solid, strong
+a relative
+pray, wish for
+become numb, get pins and needles
+prayer
+collar, lapel
+forefather, ancestor
+outline, plot
+vinegar
+suburbs, outskirts
+suburbs, outskirts
+hindrance, obstruction
+vigorously
+New Year's gift
+improvement, amelioration
+goodwill, friendly relations
+net, netting
+bind, restrict
+wring out, squeeze
+dark blue, navy blue
+many times, repeatedly
+autumn leaves, crimson foliage
+lipstick, rouge
+plum blossom
+pickled plum
+nest, den
+game of "go"
+liar
+wrinkle
+consideration, deliberation
+habit, mannerism
+diarrhea
+cliff
+storm
+straits, channel
+gossip, rumor
+country, countryside
+sly, cunning
+school building
+young lady, someone's daughter
+amusement, pastime
+for life, lifetime
+train
+bet, stake
+fluorescent lamp
+at most
+train conductor
+potato, yam
+chrysanthemum
+contempt, disdain
+deep-fry
+abandon, give up
+musical performance
+luxury, extravagance
+tight, cramped
+money, currency
+pearl
+hometown, birthplace
+flower vase
+once, for a while
+beggar
+turtle, tortoise
+sharply
+envious, envy
+row
+practice, learning
+kabuki
+whisper
+cough
+bite at
+sparkle
+waste, scraps
+wastepaper
+scratch
+stir up, agitate
+yearning, longing
+yearn after, adore
+drown, be drowned
+in one gulp
+be out of touch
+collect, scoop up
+bullying
+ill-treat, abuse
+ambiguous, vague
+new year's eve
+cowardice, timidity
+wheelchair
+persimmon, persimmon tree
+apologize
+nail, spike
+rust, get rusty
+refreshing, clear
+sparrow
+nephew
+smell, sniff
+stir-fry
+first of all
+if by any chance
+routinely, daily
+Japanese-Soviet
+Japan
+data
+date, time
+date, number of days
+daily, every day
+new moon, crescent moon
+time, days
+simply, merely
+soil, ground
+time, years
+date
+years, time
+year by year, annually
+quite right
+something, some
+somehow or other, one way or another
+above all, before everything else
+what, how
+in some way, somehow
+somehow, what's what
+maker, manufacturer
+why, what for
+several tens
+what, how
+anyhow, as you know
+several thousand, thousands
+level
+several hundred, hundreds
+come, turn up
+coming to Japan
+a day trip
+very, greatly
+rather
+large sum of money
+bigness, large size
+during the day
+Sino-Japanese
+middle age
+middle, medium size
+increasingly
+all year
+size
+a little, somewhat
+hang down, dangle
+hang, suspend
+model
+under the supervision
+way of doing
+everyone, all people
+one's whereabouts
+each and every person
+bring about, lead to
+sunset
+coming and going
+be completed, be finished
+turnout, crowd
+sunrise
+each, respective
+completion, finish
+as much as possible
+remove
+come off
+blank
+before long, sooner or later
+top
+originally, essentially
+the person himself, the said person
+this year
+today
+give a rest, set at ease
+boom
+rest
+outline, generally
+input, power input
+physical strength
+one's superiors, one's elders
+at last, at length
+weight
+one's inferiors
+now, at present
+doorway, gateway
+mouthful, bite
+hand, manpower
+team
+care, repairs
+model, example
+hands and feet, limbs
+rice field, rice paddy
+fireworks, firecrackers
+type
+men and women, both sexes
+boy, young man
+I, myself
+friend
+friend, companion
+business
+more, further
+seven
+nine
+hundred million
+buddhist temple
+dollar
+sun, sunlight, day
+fire
+tree, wood
+gold, sum of money, Friday
+system
+full, plentiful
+amount, part, share
+divide into parts, sort, share
+be divided, disperse, branch off
+computer
+something, some
+what, which
+first
+last month
+give (to an inferior)
+last week
+until now, so far
+next month
+next week
+robot
+do, carry out
+going
+going
+return, going home
+almost, hardly
+size, dimensions
+very, greatly
+inside, middle
+boy
+personal computer
+at all
+a little, a few
+much, largely
+go up, rise
+another, again
+get nervous, get stage fright
+older, senior
+going up, ascent
+lower, turn down
+program
+come down, hang down, fall
+go down, come down
+bring down, take down, pull down
+downhill, going down
+well
+younger, junior
+go down, go down or away from a central place
+one way
+person　（polite form)
+as is, still (in the current state)
+two persons
+gentle, quiet, subdued
+people
+by oneself
+television
+foreigner, alien
+outside, open air
+holiday, day off
+rest, holiday, absence
+software, programme
+strength, power
+cooperation, collaboration
+population
+exit, exit ramp
+free
+entrance
+right hand
+left hand
+not good at
+these
+suffice, serve, be satisfied
+add, supplement
+mountain
+river, stream
+eventually, sometime
+become available or vacant
+karate, empty hand
+sky, weather
+overseas, abroad
+(not) much
+sea, ocean
+every day
+every year
+every year
+still, in addition
+every week
+every month
+stone, small rock
+rice field
+almost, nearly
+flower
+woods, grove
+thick woods, forest
+child, kid
+origin, source
+at hand
+originally, by nature
+sky, Heaven
+seriousness, earnestness
+tomorrow
+network
+east and west
+southwest
+southeast
+north and south
+northwest
+little, somewhat
+northeast
+turn toward, point at
+direction, turn
+opposite side
+initiation
+demonstration
+gate, entrance
+widen, develop
+middle, between
+trouble, time
+interval, duration of time, chamber
+word processor
+rise, increase
+raise, enhance
+cheap, tacky
+falling, lowering
+low
+the most
+member
+at the beginning of the month
+the year before
+front
+in front
+facing forward, positively
+hardware
+in front of other people
+in advance
+home delivery of food
+first half
+middle, halfway
+mass communication
+half a year
+tomorrow morning
+late in life
+night, nighttime
+night sky
+dawn, daybreak
+soon, before long
+moonlit night
+night, evening
+Tanabata Festival, Star Festival
+setting sun
+drinking water
+few, little
+cooked rice, meal
+look up
+look down, overlook
+headline, heading
+sample, model
+pattern
+stare
+view, outlook
+moon viewing
+look around
+looks, appearance
+dialect
+at last, finally
+single word
+civilization, culture
+text, this text
+writings, sentence
+reading a book
+just like, completely
+reading and writing
+striking, marvelous
+recognition, remembrance
+waking up
+closing, adjournment
+steadily
+meet
+talk, discussion
+meeting with a view to marriage
+make do
+head office
+so much, that much
+entering a company
+satisfaction, contentment
+fill, satisfy
+be filled, expire
+full to capacity
+full moon
+already, no longer
+occurrence, incident
+splendid, admirable
+carpenter
+opportunity, occasion
+entrance, admission
+design
+electric power, electricity
+electron, electronic
+be mingled, be mixed
+associate with, socialize
+include
+fan, lover
+mix, socialize with
+cross
+perspective, prospect
+pass, communicate with
+let pass, run through
+passage, traffic
+do
+traffic
+briefly, once over
+passage, alley
+above ground
+ground, place
+be collected
+underpass, underground passage
+underground
+district, region
+strive for, attempt
+books
+rule
+other side
+another person, stranger
+suspension, stopping
+road closed
+look out over
+never again
+helicopter
+often
+on this occasion
+every time, always
+nearby, close at hand
+shortcut
+at least, at any rate
+many years, long time
+seniority
+for a long time
+long conversation, talk for a long time
+junior college
+inadvertently, accidentally
+short temper
+spread, unfold
+square, open space
+spread, be in general circulation
+spread, extend
+tunnel
+all one's might, full capacity
+division, department
+head office, headquarters
+section chief, department head
+interior, inner parts
+subordinate
+balance
+most, greater part
+world power, large country
+entry into a country, immigration
+one's native country
+paradise
+by any means, really
+the world, society
+Middle Ages
+world, public,
+clear, plain
+railway
+please
+iron
+body, flesh
+nappa cabbage
+Japan and U.S.
+friend, ally
+end of year
+pro, professional
+last part, end
+charge, fee
+geography
+understanding, comprehension
+solve
+chance
+taking apart
+solve, resolve
+powerful, influential
+have, possess
+fee-charging, pay
+for some reason, somehow
+impossibility
+no charge, free
+safely, peacefully
+not speaking much, reticence
+soon, in a short time
+silence, muteness
+hard
+reckless, excessive
+by force, against one's will
+make up, build up
+fable, fiction
+ambassador
+minus, below zero
+use, application
+errand
+things to do
+useless, unnecessary
+expenses
+in any case, anyway
+expend, waste
+sale
+buying and selling, trade
+shop closing
+head office
+pipe
+parts, accessories
+groceries, daily necessities
+step, grade
+price rise
+price hike
+fall in price
+in a moment, instantly
+price reduction
+price of land
+physique, build
+winter season
+heat, become hot
+plus, advantage
+low temperature
+body temperature
+friendship
+human feelings, humanity
+pitiful, shameful
+the lead, take a lead
+news, report
+telegram
+secondhand goods
+secondhand book
+old times, the old days
+slander, abuse
+even if, granting that
+enthusiasm, zeal
+conscience
+back of one's mind, one's real intention
+care, caution
+year-end party
+as...as possible, if possible
+memory lapse, mental block
+governor
+unknown
+notification
+ignorance
+the theme, the subject
+acquaintance, friend
+genius
+instinct
+able, competent
+intelligence, mental capacity
+inefficiency, incompetence
+mood
+noh play
+ability, capability
+uneasiness, anxiety
+dissatisfaction, discontent
+insufficiency, lack
+move out of the way
+impossible
+insufficiency, lack
+unknown
+bad, defective
+failure, disqualification
+market
+interruption of service
+news, correspondence
+stool, feces
+one's turn, watch
+strong point, merit
+fashion
+shortcoming, defect
+here and there, at places
+name, reputation
+master, master hand
+place name
+noted place, sights
+brake
+outskirts of a town
+the downtown area, the central area of a town
+village, hamlet
+in the metropolitan area of Tokyo
+heart of a city
+mistake
+metropolis of Tokyo
+city, town
+capital, city
+appearance, aspect
+prices
+sailboat, yacht
+object, physical body
+real thing, genuine article
+physics, natural law
+things, everything
+specialty, noted product
+knowledgeable person, know-it-all
+rather, pretty
+memory
+body weight
+easy, light
+large quantity, great deal
+measure, weigh
+rock (music)
+quantity, volume
+large quantity, great volume
+age, elderly age
+money transfer, remittance
+mailing
+go to a lot of trouble
+take up, confiscate
+take in, adopt
+decision, agreement
+be harvested, be cultivated
+cancel, nullify
+cancellation, annulment
+pilot
+take out, pull out
+report, delivery
+waiting, rendez-vous
+just can't wait for, long for
+wait for, meet by appointment
+seems, looks like
+one's property, one's baggage
+endurance, lasting long
+value, worth
+contribution, letter
+public office
+suddenly, unexpectedly
+government official
+duty, role
+role, part
+grow, spring up
+long life, longevity
+veteran
+grow, cultivate
+raw, fresh
+inanimate object
+male, man
+reason, reasoning power
+bonus
+souvenir
+walking, going on foot
+learn, study
+literature
+physical training, physical education
+identical, look alike
+system, structure
+become strong, gain strength
+strengthen, emphasize
+powerful, vigorous
+tough, bullish
+lens
+weaken, abate
+weaken, lower
+weaken, be debilitated
+weakness, shortcoming
+timid, weak-spirited
+undertake
+pace
+pull up, salvage
+draw out, lure out
+take over, take custody
+discount
+be prolonged, drag on
+marathon
+drag along, trail
+draw, drawn game
+detain, keep
+learn, follow someone's example
+getting used to, habituation
+very, by far
+accustom
+entrance examination
+try, test
+trial, test
+experience
+matter, substance
+rugby
+quality
+essence, reality
+ask, question
+inquire, contact
+question, inquiry
+rush, rush hour
+wholesale store, wholesaler
+topic of conversation
+title
+title, topic
+word
+rope
+merely, simply
+spot, point
+full marks, perfect score
+point, issue
+large number, multitude
+dam
+plural
+countless, innumerable
+number of days
+points, score
+singular
+trouble, bother
+down, malfunction
+number of people
+vicinity, whereabouts
+roundabout way, detour
+number of flat things
+defeat, loss
+training, workout
+burden, charge
+assigning tasks, sharing burden
+original, initial
+the authorities concerned
+that day
+softly, gently
+allowance, medical care
+for some time, for the present
+the person in question
+being on duty, person on duty
+exposure to the sun
+nature
+logo
+grammar
+law department
+law, rule
+law, rule
+irregular
+only, merely
+pass, pass through
+advantageous, profitable
+disadvantage
+clever, bright
+interest
+by chance, accidentally
+left-handedness, left-hander
+profit, benefit
+beneficial, profitable
+buying up, bribing
+annual income
+wooden
+tempo, pace
+inevitable, necessary
+require, need
+unnecessary, waste
+in a word, in short
+unnecessary, superfluous
+plan
+main point, gist
+seek, wish for
+request, demand
+forehead, brow
+compute, measure
+feel relieved
+thermometer
+rays of the sun, sunlight
+ruler
+role, part
+rate, proportion
+I see, really
+assignment, allotment
+assign, allot
+give a discount, make a reduction
+comparatively, rather
+rate
+discount, reduction
+part-time job
+relatively, rather
+remainder, leftover
+entirely, without exception
+payment, account
+turn back, retrace one's steps
+bump
+take back, regain
+offer, propose
+speak humbly, do
+speak humbly, state humbly
+bring in, carry on
+tire
+hope, prospect
+application, proposal
+pay in, pay up
+swallow, grasp
+cut in
+draw back, pull in
+mic, microphone
+crowd
+long period
+short-term
+junior college
+limited, finite
+room, leeway
+infinite, endless
+unlimited, free
+bargain, haggle
+advance ticket
+age, date
+vaguely, absent-mindedly
+charge, fee
+aim for, have an eye on
+point to
+index finger
+middle finger
+mandatory retirement age
+can't stand, can't put up with
+instability
+fixed staff number, capacity
+fixed term, regular
+fixed price
+undecided, pending
+motor, engine
+day's special, set menu
+regular holiday
+budget
+forecast, prediction
+prediction, forecast
+much more
+bundle, counter for bundles
+bunch of flowers
+alteration, change
+sitting up late at night
+increase, augment
+pistol
+increase, enlargement
+increase and decrease, rise and fall
+lean forward, embark on
+board, march into
+getting on and off
+pull up, park (a vehicle)
+fully, amply
+bathing suit
+be of use, serve a purpose
+stand up, take action
+neutrality
+metropolitan, Tokyo metropolitan
+truly, deeply
+full of, crowded with
+sudden evening shower
+stop, halt
+taking a seat
+one after another, in succession
+anyway
+rank next to, come next
+relay a message, transfer a call
+table of contents
+misfortune, bad luck
+trend, tendency
+movements, actions
+rhythm
+power
+work, function
+early morning
+move forward (in time), expedite
+make a hasty decision, jump the gun
+steering wheel
+speed, velocity
+special delivery, express mail
+miss
+beginning, origin
+beginning
+print
+beginning of the year
+absence
+bear fruit, ripen
+fruit, nut
+go past, pass
+sale, selling
+dazzling, glaring
+start, leave
+publication, issue
+development, growth
+invention
+generation of electricity
+somewhere else
+power plant, generating station
+generation of heat, get a fever
+expression, look
+blank form, stationery
+cover, binding
+pour, pour into
+blank sheet, clean slate
+sound, note
+pronunciation
+noise, sound
+pleasure, something looked forward to
+disco
+comfort, relief
+medicine, drug
+drugstore, pharmacy
+eye drops
+desire, greed
+want, desire
+exactly right, perfect
+surface, appearance
+scene, situation
+face
+direction
+profile, one side
+never in a million years
+surface, aspect
+first thing, forefront
+midsummer
+midnight, middle of the night
+midst
+burst (out laughing)
+sincerity, true heart
+colorless, neutral
+rose color
+sky blue, turquoise
+rectangle
+geographical features, topography
+make a profit
+seed
+classification
+just before, immediately prior
+at once, immediately
+reconsider, change one's opinion for the better
+comfortable
+immediately after
+recover, regain one's footing
+doing over, redoing
+do over again
+direct link
+nothing at all
+interview
+radio, wireless
+line, track
+straight line
+electric wire
+derailment
+dress
+white line, warning line
+direction
+right angle
+street corner
+square
+puncture
+together, both
+simultaneous
+sameness, identity
+sympathy, compassion
+of the same sex
+take it easy
+no mistaking it, for certain
+mistaken identity
+mistake, fail to recognize
+difference, mistake
+resemble, be alike
+put on, wear
+suit, match well
+imitate, forge
+journey, travel
+traveler, passenger
+traveling expenses
+soften, relieve
+lid, cover
+native Japanese word
+Japanese style
+Japanese-style food
+peaceful, mild
+soften, calm down
+report, paper
+Japanese style
+Japanese-English
+Orient
+Western style
+foreign film
+money, finance
+Western style
+Western cooking, European dish
+Western-style room
+Japanese clothes, kimono
+waiting room
+Japanese style room
+weak, brittle
+Western-style room
+window
+father and mother, parents
+mother
+father
+humor
+parents, legal guardians
+number one, the best
+interest
+youthful, young-looking
+reader, subscriber
+back
+pedestrian
+literary person, literati
+vehicle-free promenade
+person, fellow
+tie, join
+end, close
+tower
+unmarried
+accomplish, realize
+as was expected, really
+daily routine
+effective, valid
+celebrity, talent
+invalidity, ineffectiveness
+oneself
+unnatural, artificial
+inconvenience, discomfort
+correspondence, communication
+occasionally, by chance
+rely on, depend on
+request, favor
+reliable, dependable
+citizens, civilians
+race, people
+paint
+owner, proprietor
+democracy
+landlord
+definition
+mystery, wonder
+theory
+bench
+logic
+thesis, paper
+argue, discuss
+of course, no doubt
+public opinion
+each, individual
+argument, opinion
+reaction, backlash
+reflection
+objection, counterargument
+oppose, act contrary to
+somehow
+foul, rule violation
+dialogue, conversation
+pair
+correspondence, equivalence
+reaction, response
+questions and answers, argument
+regularly, properly
+specific, particular
+characteristic
+characteristic, special
+especially, particularly
+separation, parting
+tranquil, peaceful
+farewell, send-off
+farewell party
+specialist, expert
+specialty, profession
+exclusive use, private use
+melody
+whole, general
+full-scale, authentic
+all-out, overall
+logical
+intellectual, mental
+destination, goal
+liter, litre
+cultural
+masculine, manly
+usual, ordinary
+ordinary, average
+row of trees, roadside trees
+on purpose
+level surface, plain
+nonchalant, calm
+flat, level
+parallel, side by side
+discontent, dissatisfaction
+long ago
+horizon
+plain, open field
+flat, level
+square
+weekday
+best
+average, equilibrium
+equal, same
+equality, impartiality
+equality
+equality, parity
+unequal, unfair
+dress
+patient room, ward
+sick person, patient
+internal medicine
+desperation
+death from sickness
+diamond
+desperately
+lose (in death)
+very busy
+fatigue, exhaustion
+no trespassing
+number
+sake, rice wine
+get drunk
+preserve, sustain
+insurance
+guarantee, warranty
+guarantor
+at last, after all
+preservation, conservation
+think, know
+pour into, concentrate
+annotation, explanatory note
+consent, approval
+unthinkable, outrageous
+meaningless, absurd
+carelessness, inattention
+cheeky, conceited
+make sure of, confirm
+clear, precise
+smiling, beaming
+unreliable, uncertain
+approval, authorization
+recognize, acknowledge
+ratio, proportion
+frank, openhearted
+efficiency
+locker
+passenger plane
+clumsy, unskillful
+tool
+reserve, spare
+explain, preach
+pride
+unfair, unjust
+amusement park
+day-care center, nursery school
+fly out, dash out
+fly, shoot
+mommy, mummy
+fly up, jump up
+jump off, jump down
+dive into
+flight, aviation
+captain
+move out the way
+balloon
+peninsula
+island
+imperfection, incompleteness
+attain, achieve
+consist of, be built on
+badge
+minor, underage
+be defeated, be beaten
+field, plain
+plain, field
+primary factor, main cause
+hairpin, pin
+be caused by, be due to
+commodities, goods
+wish, request
+fraud, impropriety
+Taisho era
+well
+just, surely
+always, at all times
+daily, everyday
+knowledge
+recognition, acknowledgment
+unconsciously, without thinking
+empty, vain
+criticism, blame
+emergency, calamity
+lack of common sense
+emergency exit
+tone, condition
+on the way
+harmony, agreement
+health condition
+monotonous, dull
+seasoning, flavoring
+regulation, adjustment
+bucket
+arrange, adjust
+be in order, be adjusted
+adjustment, regulation
+submittal
+assumption, premise
+examination paper, answer
+taken aback
+vote, ballot
+target, goal
+standard, norm
+take along, bring along
+day after day, everyday
+bad, no good
+consecutive holidays
+companion
+connection, communication
+procedure, formalities
+continuation, succession
+if, if ever
+in rapid succession, one after another
+continuation, sequel
+lasting for a long time
+market price, speculation
+correspondence, suitability
+noisy, clamorous
+suitable, appropriate
+interview
+videotaping
+tape
+appearance on stage, appearance
+registration
+bat
+climbing, mountaineer
+attending school
+mountain climbing
+apathy, indifference
+irrelevant, unrelated
+manners
+depression, slump
+attitude, manner
+Meiji era
+urban prefecture
+prefectural
+separately
+opposition party
+election to office
+acceptance, selection
+selection, choice
+weather, climate
+wrist
+platform
+brain
+be troubled, suffer
+troubles, worries
+forefront, head
+order, give orders
+tuna
+territory, domain
+consulate
+receipt, voucher
+grapple, pursue
+entrust to, leave it to
+hardly, barely
+supervisor
+irresponsibility
+transfer
+employment
+service, duties
+perform a duty, play a role
+munch on
+duty, mission
+duty, task
+employ, hire
+recruitment, collection
+gather, pick
+waiter
+set about a task, enter upon
+retirement, resignation
+withdrawal from school
+early departure
+reason, logic
+hot
+boring, tedious
+matter, things to be done
+go, come
+miserable, pitiable
+addition
+more, better
+ratio, percentage
+contrast, comparison
+look from one to another, compare
+comparatively, relatively
+comparison
+judicial decision, judgment
+suddenly, quickly
+seal, stamp
+fame, reputation
+criticism, comment
+ill feeling, antipathy
+prospect, expectation
+connect, join
+ideal
+imagination
+elephant
+abstract
+guarantee, security
+perhaps
+hurt, injury
+change, conversion
+change, replace
+pay for another, pay in advance
+natural disaster
+harmful, hazardous
+automatically, by oneself
+harmless
+damage, harm
+defeat
+breaking, destruction
+be helped, be rescued
+service, on the house
+girl, daughter
+boy, baby boy
+we
+attain, reach
+group
+house, home
+my wife
+visitor, customer
+air, atmosphere
+hotel
+like, be pleased with
+popularity, temperament of the people, business conditions
+rain
+snow, snowfall
+gather together, put in order
+blue
+blue, green, green light
+fine weather, clear sky
+clear, obvious
+as expected, also, still
+bright, cheerful
+tomorrow
+dark, dreary, shadowy
+last year
+clearly
+the year before last
+day before yesterday
+east, eastern
+west, western
+in short, basically
+south
+north
+direction, course
+face, confront, head toward
+building
+the other side, the other party, opponent
+turn, face, look
+open
+hear, be heard
+of course, no doubt
+period of one year
+the other day, recently
+interval
+human being, people
+once, formerly
+height
+biggest, largest
+for the first time
+first, outset
+sport
+beginning
+after this, in the future
+after, afterwards
+last, final
+why, for what reason
+day after tomorrow
+cattle, cow
+half
+half a year
+like that, unchanged
+half a month
+half a day
+every morning
+this morning
+if, in case of
+noon recess, lunch break
+in the morning, before noon
+daytime, day
+every evening
+intention, purpose
+tonight, this evening
+last night, last evening
+midnight, dead of night
+evening
+at last, finally
+lunch
+breakfast
+supper
+evening meal, supper
+news
+view, way of looking
+flower viewing
+way of speaking, expression
+talk, story
+all day, from start to finish
+reading, judgment, foresight
+way of reading, reading
+tell, talk
+language, speech
+video
+English
+character, letter
+Roman alphabet
+character, letter
+apartment, apartment block, condominium
+how to write, way of writing
+awake, wake up
+awaken, wake up
+mass meeting, tournament
+twist, turn
+showy, flashy
+branch office, police box
+dispatch, sending
+criminal, offender
+offense, crime
+crack
+crime, sin
+robbery, burglary
+be caught, be arrested
+arrest, capture
+make a break for, run off
+let go
+beat, let someone have it
+escape route
+wage war, fight
+challenge
+lost battle, defeat
+war, match
+X-rays
+world war
+blend, mix by stirring
+be mixed, be stirred
+be blended, get mixed
+be disordered, be disturbed
+pants, trousers
+put into disorder, disrupt
+integration, combination
+unity, coordination
+statistics
+general meeting
+come off, peel
+synthesis, integration
+president, prime minister
+total
+criminal investigation, search
+lake
+deepen, intensify
+grumble
+deepen, become deeper
+careful, discreet
+end of paragraph
+miss, fail to notice
+failing an exam
+shiver
+wave, fluctuations
+flow, stream
+circulation, distribution
+let flow, set adrift
+mid-stream, middle reaches
+volume
+second-rate
+fashion, trend
+fashion, trend
+washing one's face
+toilet, washstand
+washbowl, sink
+dust
+sinking
+get colder
+tease, jeer
+freezing, cold storage
+internal organs
+come off, peel off
+application
+appropriate, adequate
+adaptation, adjustment
+suit, be suitable
+suitable, appropriate
+dad, father
+moderate, proper
+dye, color
+abolishment, abandonment
+scenery, landscape
+business depression, slump
+reverberate, vibrate
+grip, grab
+sunshine, sunlight
+light, flash
+measure, gauge
+measure, gauge
+cheerful, bright
+wasteful, a shame
+professional baseball
+light bulb
+turn one's head, turn round
+turn around, look back
+swing, shake
+mess around, fool around
+secretary
+secret, private
+precious, valuable
+pursuit, chase
+draw near, draw up, gather
+be dull, feel dull, weary
+stop by, stop off
+go near, approach
+dropping by, going out of the way
+gather, assemble
+historical
+gem, jewel
+tear, tear off
+a front, polite face
+unit, credit
+position, status
+separation, split
+separate, leave
+Welsh onion, green onion
+separate, detach
+power cut, power failure
+stop, suspension
+range, scope
+adjoin, be next door to each other
+soaked
+cross, go across
+profile, face seen from side
+interruption, discontinuance
+water stoppage
+inattention, carelessness
+decision, conclusion
+bargain sale
+succeed, inherit
+relay, broadcasting
+wide, broad
+width, breadth
+continent
+meter, taximeter
+landing
+takeoff
+inland, interior
+land, shore
+land, shore
+possibly, perhaps
+South Pole
+North Pole
+edge, vanguard
+end, edge
+visit
+wife
+be torn off, come off
+secrecy, privacy
+department store
+transport, ship
+revival, rebirth
+operation, manipulation
+smiling, grinning
+gymnastics, physical exercise
+lengthways, vertical
+steering, piloting
+vertical writing
+stay
+pineapple
+zone, area
+tropics
+conservation, maintenance
+watch, keep watch over
+caretaking, caretaker
+panda
+return, give back
+take back, recover
+pay back, reimburse
+put to sleep
+oversleep
+going to bed early
+soaked
+put to bed, lay down
+lie down
+cool, calm
+both
+managing two things, having it both ways
+pliers
+both hands
+both sides
+side, flank
+both sides
+important points
+modern
+landmark, sign
+long and thin, slender
+appear in print
+pile up, accumulate
+area, square measure
+translation
+request
+interpreting
+sorry, inexcusable
+reason, cause
+excuse, apology
+correction, amendment
+beach
+debate, discussion
+add to, attach to
+accompany, go along with
+neighborhood, environs
+friendship, association
+vitamin
+add
+socialize with, see someone
+name, give a name to
+appendix, supplement
+bring close
+add on, append
+frying pan
+date
+attachment, belonging
+belong to, be one of
+reflection, repentance
+omit, dispense with
+now now
+abbreviate, omit
+abbreviation
+generally, probably
+include
+contain, include
+octopus
+route, itinerary
+train
+archipelago
+row, line
+exception
+dessert
+proportion, ratio
+example, illustration
+compare, liken
+example, exercise
+normal year, average year
+metaphor, simile
+at once
+room, space
+excess, needless
+excess, extra
+on the way, half way
+use, service
+slimy
+halfway
+regulation, crackdown
+control, crack down
+loosen, unloose
+slack, loose
+slow, sluggish
+slacken, be loose
+foster, support
+abundant, ample
+be rich, abound in
+abundant, plentiful
+in a mess, terrible
+jump, hop
+laborer, worker
+labor, toil
+fatigue
+labor, work
+poor, needy
+brush
+scarce, short of
+poor person, the poor
+difficult, harsh
+unhappiness, misfortune
+welfare
+mayonnaise
+pattern, design
+model, role model
+peasants, farmers
+farmhouse
+farm village, agricultural community
+low pressure, atmospheric depression
+slovenly, untidy
+shortening, contraction
+contract, shorten
+shrink, contract
+shrinkage
+be shortened, be contracted
+corn, maize
+stretch, straighten
+stretch out, enlarge
+P.S.
+double
+excess
+lightly, floating
+overcome, get over
+riding past one's stop
+ride past
+come out, leave
+pull out
+pleasantly warm
+rise,
+expand, swell
+expand, fill up
+sign, billboard
+name badge, tag
+bow, courtesy
+be caused by
+reflection
+program, schedule
+extent, limit
+victory, championship
+excellent, exceptional
+baggy, too big
+transparent
+semiconductor
+guide, lead
+desire, hope
+desirable, welcome
+smooth, slippery
+demand, request
+desire, hope
+promising, hopeful
+desire, craving
+expect, look forward to
+endeavor, make efforts, try hard
+toast
+independence, self-reliance
+peculiarity, uniqueness
+soliloquy, monologue
+body, one's own person
+content, interior
+surprised, shocked
+near oneself, close to one
+one's person, one's appearance
+dress, one's appearance
+gesture, gesticulation
+exclusive possession, monopoly
+slowly, easy
+harmoniously, amicably
+good friend, chum
+reconciliation, making up
+personal relationship
+comrade, peer
+go-between, matchmaker
+new, shiny
+illuminate, shine on
+shine, be fine
+wife, married lady
+woman, lady
+husband and wife, Mr. and Mrs.
+bow, kowtow
+mutual, reciprocal
+each other
+all, everybody
+we
+our country, Japan
+floppy, flimsy
+one's home
+age, years
+love
+first love
+birth
+dust
+extend, be postponed
+extend, postpone
+extend, prolong
+simple, uncomplicated
+be absorbed
+tear-stained face
+pot, thermos
+laughter
+joy, happiness
+please, gladden
+shame, disgrace
+discussion, oral proceedings
+music
+protection, safeguard
+defense
+guardian, protector
+fellow, to each other
+lawyer, attorney
+romantic
+denial, negation
+president, governor
+superstition
+lost child, lost person
+territory, domain
+puzzle, mystery
+feel excited
+author, writer
+literary work, book
+sham, imitation
+Nobel Prize
+cultural assets
+wasabi, Japanese horseradish
+deposit, bank account
+acceptance, persuasion
+one's weak point
+profit, gain
+gain, advantage
+chicken, fried chicken
+loss, damage
+damage, harm
+lose, suffer loss
+fuel
+burn
+suntan
+bind, file
+grilled meat, barbequed meat
+sunset glow
+pan-fried noodles
+tree trunk
+dispersion
+grin to oneself
+be scattered
+scatter, fall
+lie scattered about, be in disorder
+scatter, disarrange
+rice planting
+rose
+root, source
+daikon radish, oriental radish
+chopping board
+spinach
+spoken language
+panties
+leaf
+call, page
+handle, deal in
+handling, manipulation
+classmate
+middle-class, intermediate
+soft
+belly
+full stomach
+lung, lungs
+be dissolved, be melted
+dissolve, melt
+problematic, troublesome
+easy, simple
+receptacle, container
+smooth, glassy
+analysis
+health, health care
+rub, massage
+examine
+medical treatment
+poison, harm
+poisoning
+poisonous, noxious
+bacterium, germ
+center
+dirty, filthy
+editing, compilation
+banishment, deportation
+radioactivity
+release, free
+rough, rude
+fling, hurl
+ignoring, disregarding
+clothes, garments
+reading aid in kana characters
+copper
+chest of drawers, wardrobe
+tragedy, tragic drama
+group, corporation
+housing estate, housing complex
+art, fine arts
+Ph.D.
+expert, doctor
+change, exchange
+unfolding, development
+expansion, prosperity
+feel, experience
+event, function
+typical, representative
+grip, grab
+type, model
+encyclopedia
+special, unique
+subtle, delicate
+tax exemption
+connection, relation
+license, permit
+verb
+noun
+adverb
+pronoun
+connect, join
+tradition, convention
+be transmitted, be handed down
+legend, folk tale
+help, assistant
+verbal message
+contagion, infection
+swallow
+yakitori, grilled chicken
+ring, sound
+shriek, scream
+laughter
+tearful voice, crying
+mutter, murmur
+voice, whisper
+parking
+noise
+disturbance, confusion
+noisy, rowdy
+close
+business card, calling card
+arrival
+arrival, attainment
+insolvency
+troublesome, difficult
+diagonal, slant
+bud
+soft, gentle
+strain, be stretched
+go all out, make efforts
+greed, greedy
+abruptly, suddenly
+stumble, trip
+thrust in, dash into
+thrust, poke
+collision
+touch, come in contact with
+refuge, shelter
+crane, stork
+fall, crash
+soldier
+arms, weapon
+soldier, troops
+weapon, arms
+samurai, warrior
+unevenness, bumpiness
+bullet, shot
+spring back, bounce
+Rising Sun Flag, Japanese flag
+perfect circle
+explosion, eruption
+palm
+bomb
+slump, crash
+violence, force
+violence
+constantly, always
+be sharp
+go to ruin, fall
+prevent, defend
+defense, protection
+prevention, determent
+prevention, protection
+pork cutlet
+fire prevention, fireproof
+hindrance, obstruction
+bad mood, displeasure
+staying up all night
+bottom, depths
+thorough, exhaustive
+how much
+after all, in the long run
+resistance, opposition
+enemy, foe
+state, preparedness
+system, organization
+lick, lap
+science
+liberal arts, humanities
+cotton
+prosperity, thriving
+Japan and Korea
+glare, stare
+withstand, endure
+arrow
+nail clipper
+frame, limits
+rod, stick
+character, personality
+rat, mouse
+stuff, fill
+be stuffed, be stopped up
+transfer, concede
+truly, very
+build up excitement
+look, peep
+become lively, get fired up
+heap up, fill
+needle, needle-shaped object
+angling
+balance, proportion
+carefree, easy-going
+balance, match
+dull, sluggish
+thick-headedness
+valley, ravine
+room, leeway
+bathing
+fly
+lie along, follow along
+beach, seashore
+beach, seashore
+bay, gulf
+dive into
+stupid, absurd
+cool, indifferent
+mud, dirt
+get cloudy
+teacup
+steam, vapor
+scales
+leak, be disclosed
+give away, let leak
+leak, be leaky
+wet, moisten
+ditch, groove
+ladder
+holler, spew
+sigh, grieve
+decayed tooth, cavity
+insect, worm
+faithfulness, devotion
+advice, admonishment
+barefoot, bare feet
+be blessed, be privileged
+morality, morals
+diameter
+radius
+bowl
+cross, x-mark
+bean, peas
+grain, drop
+wheat
+fields and rice paddies
+kerosene, lamp oil
+run over, hit
+lamp, electric light
+flame, blaze
+cynicism, irony
+skin
+smell, odor
+smelling of fish
+swell, swell up
+stink (unpleasant)
+troublesome, tiresome
+smell (pleasant)
+living together
+dig, unearth
+run over
+fence, wall
+very, highly
+history, personal history
+resume, bio
+footwear
+hint, clue
+closet, cupboard
+door
+feather
+the following day
+the following morning
+the following year
+facsimile, fax
+crowd, herd
+hit, strike
+gist, overview
+skin, surface
+underwear
+foot of the mountain
+flesh color
+intestines, entrails
+boldness, daring
+curtain
+evening, twilight
+fruit
+grave, gravestone
+graveyard, cemetery
+visit to a grave
+bud, sprout
+funeral ceremony
+the navel, the bellybutton
+good manners, courtesy
+hate, detest
+hatred, enmity
+hateful, horrible
+hateful, abominable
+buddha, Buddhist image
+stick together
+Buddhism
+Buddhist priest
+bamboo
+writer
+written examination
+broom
+writing materials, pens and pencils
+writing brush, penmanship
+flute, whistle
+registry, name list
+division, split
+poster
+cloth
+kitchen knife, carving knife
+bandage, dressing
+package, parcel
+wrapping paper
+hug, embrace
+undo, unfasten
+complaint
+middle ten days of a month
+common, ordinary
+bankbook, passbook
+pregnancy, conception
+cheek
+same surname
+bride, daughter-in-law
+bride
+bridegroom
+young child, infant
+smile
+sleepy
+sleep, slumber
+look out, gaze
+view, prospect
+enclosure
+seal, sealing
+sow, scatter
+call to, appeal to
+be caught, be trapped
+address someone, speak to someone
+happen to pass by
+hook on
+summary
+lean against something
+measure, step
+humbly look at or see
+hold back, show moderation
+waiting room
+imitation, mimicry
+squeeze, grip
+be (all) together
+align, make uniform
+meeting, receiving
+greeting, meeting
+imitate, mimic
+accomplish, achieve
+go round, circulate
+treatment, pay
+haiku
+actor, actress
+sensitive
+eyelid
+copy, follow an example
+dormitory, lodging house
+prejudice, biased view
+how many times
+publicity, advertisement
+rarely
+exhibition
+prime minister
+minister
+be present at
+temporary, provisional
+misprint, error
+cabinet
+fight
+clique, faction
+longed-for, old
+eruption, volcanic activity
+jet, fountain
+peel, pare
+unpleasant, disagreeable
+pleasant, delightful
+manga, comics
+pocket calculator
+grand, magnificent
+turn over
+female
+childish, infantile
+name
+order, method
+place behind something
+happy, fortunate
+charm, attraction
+ugly, bad-looking
+cunning, sly
+summit, climax
+recently, nowadays
+contradiction
+make a profit, be profitable
+warehouse, storehouse
+establishment, organization
+fine, penalty
+punish
+punishment, penalty
+profits, earnings
+old person, elderly
+boil, cook
+boil, be boiled
+humid
+become silent, shut one's mouth
+possibly, perhaps
+no good, pointless
+wasting money
+boiling
+return
+public office, agency
+be popular with the opposite sex
+Tokyo Metropolitan City Hall
+urban prefectural office
+friction, rubbing
+senior, superior
+adventure, risk
+stock farm, pasture
+boil
+for now, first of all
+courage, nerve
+brave, heroic
+encourage, urge
+dew, dewdrop
+avoid, evade
+below zero, sub-zero
+atmosphere, mood
+valley, basin
+Bon Festival
+tray
+send, hand over
+the masses, the populace
+stage, setting
+visit someone
+personal visit
+Bon Festival dance
+leap, hop, bound
+quit, stop
+public bath, bathhouse
+hometown, birthplace
+aim, be after
+engrave, carve
+center
+recreation, games
+twins
+naked body, bareness
+ancestor, forefather
+remuneration, reward
+innocence, simplicity
+candle
+onion
+bead, ball
+emperor
+bathroom
+squad, group
+eat, drink
+selfishness, willfulness
+philosophy
+rope, line
+rope, cord
+sew, stitch
+rainbow
+well up
+end of the rainy season
+start of the rainy season
+column, field
+bottle opener, corkscrew
+mountain pass, ridge
+stupid, useless
+grandmother, old lady
+pickle, marinade
+pickle, pickled vegetable
+crush, smash
+crush
+for some reason
+New Year's card
+bustle, enliven
+snake, serpent
+gorgeous, colorful
+trap
+tower, pagoda
+rapidly
+vow, swear
+console, comfort
+cheerful, bright
+butterfly
+pigeon, dove
+suddenly
+Doll Festival
+tremendous
+the throat
+saliva, spittle
+bark, bay
+jump
+hang
+miso, soybean paste
+close up
+close, shut
+stroke, pat
+cowardice, meanness
+lightly, delicately
+sigh
+accumulate, store up
+store, collect
+laver
+far, distant
+soon
+crotch, groin
+start a fire
+clear, plain
+eyebrow
+eyebrows
+frequently, persistently
+disposable chopsticks
+protein
+bee
+getting, receiving
+first shrine visit of the new year
+apologize
+cheek
+rice cake
+deceive, cheat
+letter paper, stationery
+awhile, long time, for the time being
+conversation
+discuss, talk over
+fit
+be in time, answer the purpose, can do without
+gas
+company, corporation
+society
+staff member, employee
+way, method
+good at
+meal, dinner
+fire
+importance
+accident, incident
+office worker, salaried worker, company employee
+construction
+factory, plant
+telephone, phone call
+electricity, electric light
+bus
+car
+station employee
+passage, street
+pass, take, go through
+class
+go to and from, frequent a place
+traffic accident
+water service, channel
+road, roadway
+truck, lorry
+road, street
+land
+map, atlas
+others, other things
+party
+stop, turn off
+come to a stop, cease
+stop, abate
+sidewalk, footpath
+delicious, tasty
+carry across, hand over
+cross, ford, go across
+year, school year
+this time, next time
+glass
+how many degrees, how many times
+late, recent
+great distance
+president (of a company)
+course, route
+president, chairperson
+length
+eldest son
+eldest daughter
+apartment, flat, apartment house
+spread out, reach
+area, extent
+whole, total
+entirely, truly, indeed
+record
+safety, security
+part
+part, section
+domestic, internal
+knock
+the whole country
+foreign country
+National Diet, parliament
+return to one's country
+camera
+foreigner
+foreign language
+world
+white
+tape, cassette
+black, dark
+black
+baby
+red, crimson
+beer, lager
+bank
+silver
+subway
+beef
+page
+flesh, meat
+fish
+field, sphere
+vegetable
+chart, graph
+bookstore, bookseller
+vegetable store, greengrocer
+soba restaurant
+cigarette shop, tobacco store
+post box, letter box
+tea (plain form)
+tea (polite)
+tea cup, rice bowl
+taste, flavor
+test, exam
+future
+weekend
+cooking, handling
+unreasonable, impossible, forced
+all over
+lose, get rid of
+disappear, run short, get lost
+composition, essay
+use, make use of
+golf
+things to do, errand, business
+traveling expense, transportation cost
+be extinguished, disappear
+eraser
+radio
+sell, be in demand
+sales floor, department
+clerk, salesperson
+booth, store
+taxi, cab
+goods, commodities
+work of art, piece
+sale, selling
+second floor, upstairs
+slowly
+stage
+steps, flight of stairs
+gradually, one after another
+price
+restaurant
+price, cost
+passing an examination, eligibility
+summer vacation
+winter vacation
+card, credit card
+the four seasons
+heat, summer heat
+heat, fever
+coldness, cold
+casual job, student job, part-time job
+warm, warm up, heat up
+get warm
+temperature
+temperature
+copy, photocopy
+stand, platform
+wind
+typhoon
+circumstances, conditions
+hit, bump into
+information
+report
+newspaper
+New Year
+film
+good, suitable, preferable
+center, middle
+peace of mind, relief
+recollect, recall
+department store, department
+recollections, memory
+thought, view, idea
+solution, settlement
+let know, inform
+bed
+ability, capacity
+possible, potential
+permitted, OK
+mail service, postal matter
+coat, jacket
+inconvenient
+mailman
+post office
+police box
+note book, laptop
+lot number, address
+number, serial number
+place, space
+neighborhood
+wine
+kitchen
+one's dwelling, address
+lavatory, bathroom
+famous
+strange, peculiar, suspicious
+surname, family name
+name
+every country
+town, machi, city quarter
+toilet
+cities, urban community
+circumstances
+breakfast
+shopping, purchase
+camping, camp
+baggage, load
+article, thing
+sightseeing, visit
+thing, object
+plastic
+something left behind, lost item
+weight
+hand out, distribute, allot
+delivery
+color
+anxiety, worry, good offices
+see (someone) off
+seeing someone off
+receive, accept
+piano
+receive, understand
+come off, be removed
+write down, note down
+reach, be received
+ski, skiing
+deliver, give notice
+maintain, last long
+wealthy person
+take
+not at all, hardly
+bring
+hit, strike
+throw, abandon
+be born, come into existence
+pool
+have children
+woman, female
+production
+souvenir
+platform
+life, living
+pupil, student
+junior high school
+enter a school, matriculate
+elevator
+junior high school student
+schoolchildren, schoolboy
+observation tour, study tour, field trip
+attending school, going to school
+memorandum, memo pad
+high school
+elementary school
+junior high school
+principal, schoolmaster
+bread
+temporary closure of school
+church
+education
+bring up, breed
+surprised
+be brought up, grow
+system, organization
+strength, power
+transaction, dealings
+trousers, pants
+drawer, withdrawal
+hold down
+closet
+practice, training
+toy, plaything
+learn, practice
+grow accustomed to
+custom, habit
+research, study
+gram
+test, examination
+problem, question
+simple, easy
+complicated, intricate
+coffee
+figure, numeral
+mathematics
+count, calculate
+this time
+tent
+turn round, go round, detour
+turn, rotate
+individual
+person in charge
+boat
+hit, strike
+at that time, at the present time
+truth, reality
+natural, as a matter of course
+ball
+wholly, at all
+method, procedure
+law
+rule, regulation
+motorbike, motorcycle
+experience
+pass, elapse
+economy, economics
+management, operation
+cruel, severe
+stocks, shares
+corporation, business
+work, operation
+industry
+you
+industry, manufacturing industry
+commerce, trade
+utilization, usage
+convenience, handiness
+switch
+skill, technology
+surgical operation
+production, manufacture
+without fail, certainly
+present, gift
+need, necessity
+important, essential
+requirement, demand
+alarm clock
+always, at all times
+calculation
+subtraction
+addition
+crossing, intersection
+tennis
+divide, crack, split
+crack, be divided, split
+division
+remain, be left over
+here, this way
+leave, reserve, leave undone
+return, repay
+answer, reply
+borrow
+button
+lend, lease
+lend, lend out
+apply, make a proposal
+expectation, anticipation
+funny, amusing, comical
+term, period
+time, season
+be limited to
+hurry, hasten
+court
+suddenly, unexpectedly
+urgent, dire, pressing
+express train, going in a hurry
+run out, expire, can cut
+drama, theater, soap opera
+postage stamp
+be sold out, go out of stock
+sellout, sold out
+important, valuable
+visa
+ticket
+entrance ticket
+rent
+age, antiquity
+pocket
+substitute, be substituted for
+substitute, use in place of
+finger, toe
+decision, settlement
+soon, quietly
+constant, standard
+commuter's pass
+schedule, plan
+weather forecast
+grapes
+preparation, previewing (a lesson)
+reservation, subscription
+promise, vow
+change
+rarely
+awful, serious
+strange, weird, funny
+change
+strengthening
+Christmas
+culture
+increase, accrue
+increase, add
+decrease, diminish
+tie, necktie
+decrease, reduce
+vehicle, conveyance
+get off, land
+unload, set down
+violin
+fall, come down
+arrive, make contact, settle
+clothes, kimono
+underwear
+passport
+coat, jacket
+dress, put on clothes
+remove clothes, take off
+standpoint, position
+bag
+stand out, be conspicuous
+stand, set up, establish
+be useful, be helpful
+attendance, presence
